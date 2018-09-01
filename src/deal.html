@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <script>
+        function main(a) {
+            var tvalue=document.getElementById("demo").value;
+            document.getElementById("demo").value=tvalue+a;
+
+        }
+
+
+        function disPlay() {
+            document.getElementById("demo").value=eval(document.getElementById("demo").value);
+
+        }
+        //setInterval()
+        //事件隔离级别  Ru//
+        // rc   read conmit//提交
+        //rep
+        //
+
+
+
+
+
+    </script>
+</head>
+<body>
+<input type="text" name="name" id="demo">
+<br>
+<input type="button" name="bname" id="2" value="3" onclick="main('3')">
+<input type="button" name="bname" id="3" value="2" onclick="main('2')">
+<input type="button" name="bname" id="4" value="+" onclick="main('+')">
+<input type="button" name="bname" id="5" value="-" onclick="main('-')">
+<input type="button" name="bname" id="6" value="*" onclick="main('*')">
+<input type="button" name="bname" id="7" value="计算" onclick="disPlay()">
+
+</body>
+</html>

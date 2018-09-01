@@ -1,0 +1,6 @@
+191424  INFO::Read cfg OK
+191424  INFO::start Transfer...........LocalIP='127.0.0.1LocalPort=8899DestHost='101.10.3.156DestPort=80AllowCline='*.*.*.*
+191424  INFO::Transfer :LocalIP='127.0.0.1LocalPort=8899DestHost='101.10.3.156DestPort=80AllowCline='*.*.*.*
+191704  INFO::Read cfg OK
+191704  INFO::start Transfer...........LocalIP='127.0.0.1LocalPort=8899DestHost='101.10.3.156DestPort=80AllowCline='*.*.*.*
+191704  INFO::Transfer :LocalIP='127.0.0.1LocalPort=8899DestHost='101.10.3.156DestPort=80AllowCline='*.*.*.*

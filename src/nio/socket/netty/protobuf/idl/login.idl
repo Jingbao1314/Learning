@@ -1,0 +1,3 @@
+service org.socket.rpc.idl.ILogin{
+    boolean login(String username,String password);
+}
