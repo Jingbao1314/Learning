@@ -6,394 +6,97 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="472a79ca-fad5-4358-8a31-f875c6bef080" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/aaaa.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/affinity-3.0.7-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/commons-codec-1.10.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/commons-codec-1.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/commons-httpclient-3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/commons-io-2.5.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/commons-logging-1.1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/commons-logging-1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/fastjson-1.1.33.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/httpclient-4.5.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/httpcore-4.4.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/httpmime-4.5.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/jedis-2.9.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/jna-4.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/js.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/junit-4.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/log4j-1.2.17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/mybatis-3.4.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/mysql-connector-java-5.1.18.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/netty-all-5.0.0.Alpha2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/org.apache.commons.codec-1.8.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/org.eclipse.paho.client.mqttv3-1.0.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/protobuf-java-2.4.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/protobuf-socket-rpc-2.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/rabbitmq-client.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/sigar-1.6.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/slf4j-api-1.7.21.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/slf4j-log4j12-1.7.7.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/tools.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/myThread/BlockQueueTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/myThread/CallAndFuture.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/myThread/MyCountDownLatch.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/myThread/MyException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/myThread/MyUncatchExceptionTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/myThread/MyVolatile.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/myThread/RetrnetLoctTest$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/myThread/RetrnetLoctTest$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/myThread/RetrnetLoctTest$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/myThread/RetrnetLoctTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/myThread/Task.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/myThread/TaskT.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/myThread/VolatileTest$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/myThread/VolatileTest$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/myThread/VolatileTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/myThread/WaitTest$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/myThread/WaitTest$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/myThread/WaitTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/JDBCmothed.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/MYselect$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/MYselect$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/MYselect.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Mydelete$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Mydelete$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Mydelete.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Myerror$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Myerror$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Myerror$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Myerror.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Myinsert$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Myinsert$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Myinsert.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Mymenu$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Mymenu$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Mymenu$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Mymenu$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Mymenu$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Mymenu.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Myresult$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Myresult$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Myresult.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Mytap$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Mytap$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Mytap$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Mytap.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Mytext$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Mytext$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Mytext.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Myupdate$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Myupdate$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Myupdate.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Student.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org1/BalanceTree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org1/GetPostTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org1/SortTree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org1/Stack.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org1/Test$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org1/Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org1/Tree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org1/TreeMethod.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org2/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org2/Route.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org2/Server.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org2/SysLog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org2/Transfer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/file/upload/HTTP断点续传（分块传输）.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/file/upload/Uploader文件上传数据传输协议 .pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/http2/Go语言实现的http2协议.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/http2/HTTP2.0中文版.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/websocket/Websocket协议的学习、调研和实现.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reg/正则表达式特殊字符.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reg/正则表达式的元字符.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/http/http1.0与http1.1比较.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/http/tcpdump抓包分析TCP三次握手过程.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/http/用tcpdump学习TCP.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/description.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/httpmime_4_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/jedis_2_9_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/netty_all_5_0_0_Alpha2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/rabbitmq_client.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/slf4j_api_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/project-template.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cfg/jPortMap.cfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log/jPOINTmap_20180202.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log/jPOINTmap_20180203.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org1/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org1/a.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/untitled4/org1/login.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyAppClassLoad.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/annotation/i/DeprecatedTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/annotation/i/SuppressWarningsTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/annotation/ii/InheritableTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/annotation/ii/MyTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/annotation/iii/MyTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/annotation/iv/ApplyMyAnnotation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/arithmetic/Bag.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/arithmetic/Goods.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/arithmetic/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/deal.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dijkatra/Dijkatra.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dijkatra/Greed.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dijkatra/MyProcess.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dijkatra/MyRequest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dijkatra/MyResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/i/A1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/i/A2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/i/Apple.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/i/ArrayListtest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/i/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/i/TestList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/ii/Apple.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/ii/Canvas.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/ii/GenericConstructor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/ii/GenericDiamondTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/ii/MyUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/ii/RightTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/ii_2/ArrayErr.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/ii_2/ErasureTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/ii_2/GenericMethodTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lang18/LambdaLanguageBase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lang18/My99InLine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/log4jtest/Application.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/log4jtest/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mango/Ai.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mango/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myBlockQueue/FastRankTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myBlockQueue/JavapTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myBlockQueue/MyMergeSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myBlockQueue/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myThread/BlockQueueTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myThread/CallAndFuture.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myThread/MyCountDownLatch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myThread/MyUncatchExceptionTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myThread/RetrnetLoctTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myThread/VolatileTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myThread/WaitTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mybatistest/conf/Goods.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mybatistest/conf/User.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mybatistest/conf/config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mybatistest/dao/IGoods.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mybatistest/dao/IUser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mybatistest/pojo/Goods.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mybatistest/pojo/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mybatistest/test/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myenum/i/EnumTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myenum/i/MySeason.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myenum/i/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myenum/i/SeasonEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myenum/i/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myenum/ii/Gender.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myenum/ii/GenderTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myenum/ii_2/Gender.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myenum/ii_2/GenderTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myenum/ii_3/Gender.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myenum/iii/Operation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myenum/iii/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myenum/iv/Gender.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myenum/iv/GenderDesc.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myjdbc/Pstest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myjdbc/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myredis/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myredis/keyinvalid/KeyExpiredListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myredis/keyinvalid/Subscriber.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myredis/keyinvalid/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myspring/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/BufferTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/FileChnallTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/FileLockTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/NClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/NServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/errorpackage/delimiter/EchoClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/errorpackage/delimiter/EchoClientHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/errorpackage/delimiter/EchoServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/errorpackage/delimiter/EchoServerHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/errorpackage/fixedLen/EchoServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/errorpackage/fixedLen/EchoServerHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/errorpackage/hello/TimeClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/errorpackage/hello/TimeClientHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/errorpackage/hello/TimeServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/errorpackage/hello/TimeServerHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/file/download/FileClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/file/download/FileClientHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/file/download/FileServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/file/download/FileServerHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/file/upload/DataClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/file/upload/DataClientInboundHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/file/upload/DataClientInitializer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/file/upload/DataServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/file/upload/DataServerInboundHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/file/upload/DataServerInitializer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/file/upload/JavaUploadSample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/file/upload/errorpackage/delimiter/EchoClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/file/upload/errorpackage/delimiter/EchoClientHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/file/upload/errorpackage/delimiter/EchoServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/file/upload/errorpackage/delimiter/EchoServerHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/file/upload/errorpackage/fixedLen/EchoServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/file/upload/errorpackage/fixedLen/EchoServerHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/file/upload/errorpackage/hello/TimeClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/file/upload/errorpackage/hello/TimeClientHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/file/upload/errorpackage/hello/TimeServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/file/upload/errorpackage/hello/TimeServerHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/heartbeat/HeartBeatServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/heartbeat/HeartbeatHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/heartbeat/SimpleClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/heartbeat/SimpleClientInitializer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/hello/ClientIntHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/hello/ClientTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/hello/TCPConn.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/hello/TestSocket.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/hello/TimeClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/hello/TimeClientHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/hello/TimeServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/hello/TimeServerHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/http/HttpServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/http/HttpServerInboundHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/http/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/http2/client/Http2Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/http2/client/Http2ClientInitializer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/http2/client/Http2SettingsHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/http2/client/HttpResponseHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/http2/server/HelloWorldHttp1Handler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/http2/server/HelloWorldHttp2Handler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/http2/server/Http2OrHttpHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/http2/server/Http2Server.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/http2/server/Http2ServerInitializer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/inoutbound/HelloClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/inoutbound/HelloClientIntHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/inoutbound/HelloServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/inoutbound/InboundHandler1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/inoutbound/InboundHandler2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/inoutbound/OutboundHandler1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/inoutbound/OutboundHandler2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/inoutbound/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/protobuf/client/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/protobuf/framework/DoThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/protobuf/framework/IDoSomethingIntf.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/protobuf/framework/Send.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/protobuf/framework/Server.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/protobuf/idl/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/protobuf/idl/IDosomething.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/protobuf/idl/ILogin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/protobuf/idl/login.idl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/protobuf/server/Login.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/protobuf/server/TestServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/serverfind/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/serverfind/ClientHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/serverfind/InHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/serverfind/OutHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/serverfind/Server.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/serverfind/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/ssl/https/ExportPrivateKey.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/ssl/https/HttpServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/ssl/https/HttpServerInboundHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/ssl/https/luke" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/ssl/https/luke1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/ssl/https/luke2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/ssl/https/ssltest.jks" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/udp/UDPClientTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/udp/UDPServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/udp/UDPSeverHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/websocket/ChildChannelHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/websocket/Global.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/websocket/MyWebSocketServerHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/websocket/NettyServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nio/socket/netty/websocket/client.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/JDBCmothed.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/MYselect.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/Mydelete.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/Myerror.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/Myinsert.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/Mymenu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/Myresult.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/Mytap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/Mytext.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/Myupdate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/Student.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org1/BalanceTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org1/GetPostTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org1/SortTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org1/Stack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org1/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org1/Tree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org1/TreeMethod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org1/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org1/a.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org1/login.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org2/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org2/Route.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org2/Server.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org2/SysLog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org2/Transfer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/proxy/MyInvocationHabdler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/proxy/MyProxy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/rabbitmq/Res.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/rabbitmq/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/rbtree/RedBtree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/rbtree/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/rbtree/TreeMothed.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reflaction/Analysis.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reflaction/MyAppClassLoad.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reflaction/ProcessTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reflaction/ServletTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reflaction/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reflaction/proxydbcp/ConnectonHander.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reflaction/proxydbcp/JdbcPool.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reflaction/proxytest/Animal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reflaction/proxytest/Dog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reflaction/proxytest/MyInvokeHander.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reflaction/proxytest/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reflaction/remoteExecution/ByteUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reflaction/remoteExecution/ClassModifier.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reflaction/remoteExecution/HackSystem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reflaction/remoteExecution/HotSwapClassLoder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reflaction/remoteExecution/JavaClassExecuter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reflaction/remoteExecution/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reg/FindGroup.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reg/MatchesTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reg/ReplaceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reg/StartEnd.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reg/StringReg.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/GetPostTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/http/GetPostTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/http/HTTP协议详解(真的很经典).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/http/InetAddressTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/http/SimpleHttpGet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/http/URLDecoderTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/http/abc/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/http/abc/a.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/http/abc/login.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/http_1/MyHttpServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/http_1/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/jing/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/jing/Server.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/jing/Tets.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/oobinline/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/oobinline/Server.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/rpc/client/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/rpc/framework/DoThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/rpc/framework/IDoSomethingIntf.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/rpc/framework/Send.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/rpc/framework/Server.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/rpc/idl/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/rpc/idl/IDosomething.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/rpc/idl/ILogin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/rpc/idl/login.idl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/rpc/server/Login.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/rpc/server/TestServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/tcp/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/tcp/Server.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/socket/xxx.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/untitled4.iml" />
+    <list default="true" id="472a79ca-fad5-4358-8a31-f875c6bef080" name="Default" comment="test">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/sun/proxy/$Proxy0.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/i/Apple.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/ii/MyUtils.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/generics/ii/X.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myBlockQueue/JavapTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myBlockQueue/Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myThread/Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myredis/Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reflaction/AnalysisTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reflaction/Student.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reflaction/Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/unnamed.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/commons_codec_1_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/commons_codec_1_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/commons_httpclient_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/commons_logging_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/mybatis_3_4_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/org_apache_commons_codec_1_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log/jPOINTmap_20180527.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myBlockQueue/MyArrayBlockQueue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myThread/CountDownLatchPhsaer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myThread/DefaultTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myThread/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reflaction/AnalysisTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/jPOINTmap_20180202.log" afterPath="$PROJECT_DIR$/log/jPOINTmap_20180202.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/jPOINTmap_20180203.log" afterPath="$PROJECT_DIR$/log/jPOINTmap_20180203.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/untitled4/org1/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/out/production/untitled4/org1/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/untitled4/org1/a.jsp" afterPath="$PROJECT_DIR$/out/production/untitled4/org1/a.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/untitled4/org1/login.jsp" afterPath="$PROJECT_DIR$/out/production/untitled4/org1/login.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/annotation/i/DeprecatedTest.java" afterPath="$PROJECT_DIR$/src/annotation/i/DeprecatedTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/annotation/i/SuppressWarningsTest.java" afterPath="$PROJECT_DIR$/src/annotation/i/SuppressWarningsTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/annotation/ii/InheritableTest.java" afterPath="$PROJECT_DIR$/src/annotation/ii/InheritableTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/annotation/ii/MyTest.java" afterPath="$PROJECT_DIR$/src/annotation/ii/MyTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/annotation/iii/MyTest.java" afterPath="$PROJECT_DIR$/src/annotation/iii/MyTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/generics/i/A1.java" afterPath="$PROJECT_DIR$/src/generics/i/A1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/generics/i/A2.java" afterPath="$PROJECT_DIR$/src/generics/i/A2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/generics/i/Apple.java" afterPath="$PROJECT_DIR$/src/generics/i/Apple.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/generics/ii/Apple.java" afterPath="$PROJECT_DIR$/src/generics/ii/Apple.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/generics/ii/Canvas.java" afterPath="$PROJECT_DIR$/src/generics/ii/Canvas.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/generics/ii/GenericConstructor.java" afterPath="$PROJECT_DIR$/src/generics/ii/GenericConstructor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/generics/ii/GenericDiamondTest.java" afterPath="$PROJECT_DIR$/src/generics/ii/GenericDiamondTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/generics/ii/MyUtils.java" afterPath="$PROJECT_DIR$/src/generics/ii/MyUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/generics/ii/RightTest.java" afterPath="$PROJECT_DIR$/src/generics/ii/RightTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/generics/ii_2/ArrayErr.java" afterPath="$PROJECT_DIR$/src/generics/ii_2/ArrayErr.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/generics/ii_2/ErasureTest.java" afterPath="$PROJECT_DIR$/src/generics/ii_2/ErasureTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/generics/ii_2/GenericMethodTest.java" afterPath="$PROJECT_DIR$/src/generics/ii_2/GenericMethodTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/myenum/i/EnumTest.java" afterPath="$PROJECT_DIR$/src/myenum/i/EnumTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/myenum/i/SeasonEnum.java" afterPath="$PROJECT_DIR$/src/myenum/i/SeasonEnum.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/myenum/ii/Gender.java" afterPath="$PROJECT_DIR$/src/myenum/ii/Gender.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/myenum/ii/GenderTest.java" afterPath="$PROJECT_DIR$/src/myenum/ii/GenderTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/myenum/ii_2/Gender.java" afterPath="$PROJECT_DIR$/src/myenum/ii_2/Gender.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/myenum/ii_2/GenderTest.java" afterPath="$PROJECT_DIR$/src/myenum/ii_2/GenderTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/myenum/ii_3/Gender.java" afterPath="$PROJECT_DIR$/src/myenum/ii_3/Gender.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/myenum/iii/Operation.java" afterPath="$PROJECT_DIR$/src/myenum/iii/Operation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/myenum/iv/Gender.java" afterPath="$PROJECT_DIR$/src/myenum/iv/Gender.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/myenum/iv/GenderDesc.java" afterPath="$PROJECT_DIR$/src/myenum/iv/GenderDesc.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nio/socket/netty/errorpackage/hello/TimeClient.java" afterPath="$PROJECT_DIR$/src/nio/socket/netty/errorpackage/hello/TimeClient.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nio/socket/netty/errorpackage/hello/TimeServer.java" afterPath="$PROJECT_DIR$/src/nio/socket/netty/errorpackage/hello/TimeServer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nio/socket/netty/file/download/FileClient.java" afterPath="$PROJECT_DIR$/src/nio/socket/netty/file/download/FileClient.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nio/socket/netty/file/download/FileClientHandler.java" afterPath="$PROJECT_DIR$/src/nio/socket/netty/file/download/FileClientHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nio/socket/netty/file/upload/errorpackage/hello/TimeClient.java" afterPath="$PROJECT_DIR$/src/nio/socket/netty/file/upload/errorpackage/hello/TimeClient.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nio/socket/netty/file/upload/errorpackage/hello/TimeServer.java" afterPath="$PROJECT_DIR$/src/nio/socket/netty/file/upload/errorpackage/hello/TimeServer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nio/socket/netty/hello/TimeClient.java" afterPath="$PROJECT_DIR$/src/nio/socket/netty/hello/TimeClient.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nio/socket/netty/hello/TimeServer.java" afterPath="$PROJECT_DIR$/src/nio/socket/netty/hello/TimeServer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nio/socket/netty/websocket/ChildChannelHandler.java" afterPath="$PROJECT_DIR$/src/nio/socket/netty/websocket/ChildChannelHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nio/socket/netty/websocket/Global.java" afterPath="$PROJECT_DIR$/src/nio/socket/netty/websocket/Global.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nio/socket/netty/websocket/MyWebSocketServerHandler.java" afterPath="$PROJECT_DIR$/src/nio/socket/netty/websocket/MyWebSocketServerHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nio/socket/netty/websocket/NettyServer.java" afterPath="$PROJECT_DIR$/src/nio/socket/netty/websocket/NettyServer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/Mytap.java" afterPath="$PROJECT_DIR$/src/org/Mytap.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org1/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/org1/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org1/a.jsp" afterPath="$PROJECT_DIR$/src/org1/a.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org1/login.jsp" afterPath="$PROJECT_DIR$/src/org1/login.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reg/FindGroup.java" afterPath="$PROJECT_DIR$/src/reg/FindGroup.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reg/MatchesTest.java" afterPath="$PROJECT_DIR$/src/reg/MatchesTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reg/ReplaceTest.java" afterPath="$PROJECT_DIR$/src/reg/ReplaceTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reg/StartEnd.java" afterPath="$PROJECT_DIR$/src/reg/StartEnd.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reg/StringReg.java" afterPath="$PROJECT_DIR$/src/reg/StringReg.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/socket/GetPostTest.java" afterPath="$PROJECT_DIR$/src/socket/GetPostTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/socket/http/GetPostTest.java" afterPath="$PROJECT_DIR$/src/socket/http/GetPostTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/socket/http/HTTP协议详解(真的很经典).txt" afterPath="$PROJECT_DIR$/src/socket/http/HTTP协议详解(真的很经典).txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/socket/http/InetAddressTest.java" afterPath="$PROJECT_DIR$/src/socket/http/InetAddressTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/socket/http/URLDecoderTest.java" afterPath="$PROJECT_DIR$/src/socket/http/URLDecoderTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/socket/http/abc/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/socket/http/abc/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/socket/http/abc/a.jsp" afterPath="$PROJECT_DIR$/src/socket/http/abc/a.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/socket/http/abc/login.jsp" afterPath="$PROJECT_DIR$/src/socket/http/abc/login.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/socket/tcp/Client.java" afterPath="$PROJECT_DIR$/src/socket/tcp/Client.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/socket/tcp/Server.java" afterPath="$PROJECT_DIR$/src/socket/tcp/Server.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -1924,8 +1627,16 @@
       <workItem from="1535616329656" duration="1103000" />
       <workItem from="1535697723964" duration="2419000" />
       <workItem from="1535700448580" duration="8418000" />
-      <workItem from="1535788293110" duration="99000" />
+      <workItem from="1535788293110" duration="663000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1535788548502</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1535788548502</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1934,7 +1645,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="685269000" />
+    <option name="totallyTimeSpent" value="685833000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1992,6 +1703,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2249,6 +1964,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="726">
           <caret line="38" column="49" lean-forward="false" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#176#177#0" expanded="false" />
+            <element signature="e#206#207#0" expanded="false" />
+            <element signature="e#236#237#0" expanded="false" />
+            <element signature="e#268#269#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2270,6 +1992,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2277,6 +2002,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1188">
           <caret line="60" column="5" lean-forward="false" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2284,6 +2012,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1804">
           <caret line="84" column="31" lean-forward="false" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2291,6 +2022,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="726">
           <caret line="38" column="33" lean-forward="false" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2298,6 +2032,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1012">
           <caret line="53" column="7" lean-forward="false" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2305,6 +2042,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
