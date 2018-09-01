@@ -6,7 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="472a79ca-fad5-4358-8a31-f875c6bef080" name="Default" comment="Learing Test">
+    <list default="true" id="472a79ca-fad5-4358-8a31-f875c6bef080" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/jPOINTmap_20180202.log" afterPath="$PROJECT_DIR$/log/jPOINTmap_20180202.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/jPOINTmap_20180203.log" afterPath="$PROJECT_DIR$/log/jPOINTmap_20180203.log" />
@@ -1509,7 +1509,7 @@
       <workItem from="1535616329656" duration="1103000" />
       <workItem from="1535697723964" duration="2419000" />
       <workItem from="1535700448580" duration="8418000" />
-      <workItem from="1535788293110" duration="891000" />
+      <workItem from="1535788293110" duration="1127000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1535788548502</created>
@@ -1525,7 +1525,14 @@
       <option name="project" value="LOCAL" />
       <updated>1535789003215</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Learing Test">
+      <created>1535789212654</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1535789212654</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1534,7 +1541,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="686061000" />
+    <option name="totallyTimeSpent" value="686297000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1596,7 +1603,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="MyLearing" />
-    <option name="LAST_COMMIT_MESSAGE" value="MyLearing" />
+    <MESSAGE value="Learing Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learing Test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
