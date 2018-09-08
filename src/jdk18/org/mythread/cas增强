@@ -1,0 +1,21 @@
+在jdk1.7中，AtomicInteger的getAndIncrement是这样的：
+
+    public final int getAndIncrement() {
+        for (;;) {
+            int current = get();
+            int next = current + 1;
+            if (compareAndSet(current, next))
+                return current;
+        }
+    }
+    public final boolean compareAndSet(int expect, int update) {
+        return unsafe.compareAndSwapInt(this, valueOffset, expect, update);
+    }
+
+而在jdk1.8中，是这样的：
+
+    public final int getAndIncrement() {
+        return unsafe.getAndAddInt(this, valueOffset, 1);
+    }
+
+在jdk1.8中，直接使用了Unsafe的getAndAddInt方法

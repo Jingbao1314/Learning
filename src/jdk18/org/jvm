@@ -1,0 +1,81 @@
+不再需要调整其大小
+当前对象移到 Java 堆或本地内存
+JVM参数 -XX:PermSize 和 -XX:MaxPermSize被XX:MetaSpaceSize 和 -XX:MaxMetaspaceSize替换。
+
+紧凑的JRE分3种，分别是compact1、compact2、compact3，他们的关系是compact1<compact2<compact3
+
+JPEDS工具使用
+java8新增一个工具，用来分析应用程序所依赖的profile，有三个参数比较常用 -p，-v，-r
+
+import java.util.Set;
+import java.util.HashSet;
+
+public class Deps {
+  public static void main(String[] args) {
+    Sygv ystem.out.println(Math.random());
+    Set<String> set = new HashSet<>();
+  }
+}
+
+
+************** PROFILE ********************
+jdeps -P Deps.class
+Deps.class -> /Library/Java/JavaVirtualMachines/jdk1.8.0.jdk/Contents/Home/jre/lib/rt.jar
+   <unnamed> (Deps.class)
+      -> java.io                                            compact1
+      -> java.lang                                          compact1
+      -> java.util                                          compact1
+
+************** VERBOSE ********************
+jdeps -v Deps.class
+Deps.class -> /Library/Java/JavaVirtualMachines/jdk1.8.0.jdk/Contents/Home/jre/lib/rt.jar
+   Deps (Deps.class)
+      -> java.io.PrintStream
+      -> java.lang.Math
+      -> java.lang.Object
+      -> java.lang.String
+      -> java.lang.System
+      -> java.util.HashSet
+
+************** RECURSIVE ********************
+jdeps -R Deps.class
+Deps.class -> /Library/Java/JavaVirtualMachines/jdk1.8.0.jdk/Contents/Home/jre/lib/rt.jar
+   <unnamed> (Deps.class)
+      -> java.io
+      -> java.lang
+      -> java.util
+/Library/Java/JavaVirtualMachines/jdk1.8.0.jdk/Contents/Home/jre/lib/jce.jar -> /Library/Java/JavaVirtualMachines/jdk1.8.0.jdk/Contents/Home/jre/lib/rt.jar
+   javax.crypto (jce.jar)
+      -> java.io
+      -> java.lang
+      -> java.lang.reflect
+      -> java.net
+      -> java.nio
+      -> java.security
+      -> java.security.cert
+      -> java.security.spec
+      -> java.util
+      -> java.util.concurrent
+      -> java.util.jar
+      -> java.util.regex
+      -> java.util.zip
+      -> javax.security.auth
+      -> sun.security.jca                                   JDK internal API (rt.jar)
+      -> sun.security.util                                  JDK internal API (rt.jar)
+      -> sun.security.validator                             JDK internal API (rt.jar)
+   javax.crypto.interfaces (jce.jar)
+      -> java.lang
+      -> java.math
+      -> java.security
+   javax.crypto.spec (jce.jar)
+      -> java.lang
+      -> java.math
+      -> java.security.spec
+      -> java.util
+/Library/Java/JavaVirtualMachines/jdk1.8.0.jdk/Contents/Home/jre/lib/rt.jar -> /Library/Java/JavaVirtualMachines/jdk1.8.0.jdk/Contents/Home/jre/lib/jce.jar
+   java.security (rt.jar)
+      -> javax.crypto                                       JDK internal API (jce.jar)
+   sun.security.util (rt.jar)
+      -> javax.crypto                                       JDK internal API (jce.jar)
+      -> javax.crypto.interfaces                            JDK internal API (jce.jar)
+      -> javax.crypto.spec                                  JDK internal API (jce.jar)

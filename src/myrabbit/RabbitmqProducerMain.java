@@ -1,9 +1,13 @@
 package myrabbit;
 
+import com.rabbitmq.client.AMQP;
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
 import com.rabbitmq.client.ConnectionFactory;
 
+import java.io.IOException;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.concurrent.TimeUnit;
 
 /**
@@ -24,21 +28,32 @@ public class RabbitmqProducerMain {
         Connection connection =  factory.newConnection();
 
         Channel channel = connection.createChannel();
+//        Map<String, Object> argss = new HashMap<String, Object>();
+//        argss.put("vhost", "/");
+//        argss.put("username","root");
+//        argss.put("password", "root");
+//        argss.put("x-message-ttl",1000);
         String queueName = "queueOne";
         String exchangeName = "exchangerOne";
         String routingKey = "queueOne";
         channel.exchangeDeclare(exchangeName,"direct");
         channel.queueDeclare(queueName,false,false,false,null);
         channel.queueBind(queueName,exchangeName,routingKey);
+//        run(exchangeName);
 
-        int msgCnt =15000;
+        int msgCnt =15;
         while(msgCnt-->0){
             String msg = "msg"+Math.random()*100;
             channel.basicPublish(exchangeName,routingKey,null,msg.getBytes());  //发送消息
+//            channel.basicPublish(exchangeName,routingKey, new AMQP
+//                            .BasicProperties.Builder().expiration(String
+//                            .valueOf(10* 1000)).build(),
+//                    msg.getBytes());
             System.out.println("produce msg :"+msg);
-            TimeUnit.SECONDS.sleep(5);
+//            TimeUnit.SECONDS.sleep(5);
         }
         channel.close();
         connection.close();
     }
+
 }
