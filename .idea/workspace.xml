@@ -2,57 +2,20 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="unnamed" />
+      <artifact name="untitled4:jar" />
     </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/myrabbit/test/ConsumerTest.java" line="30" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="472a79ca-fad5-4358-8a31-f875c6bef080" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/language/i/img/distinct.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/language/i/img/filter.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/language/i/img/flatmap.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/language/i/img/limit.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/language/i/img/map.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/language/i/img/peek.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/language/i/img/reduce.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/language/i/img/skip.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/language/i/stream语法.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/language/nashornjavascript/jjs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/jvm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/language/i/LambdaTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/language/i/LambdaTest2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/language/i/OptionalDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/language/i/StreamTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/language/ii/DefaultInterfaceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/language/ii/functionRef.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/language/iii/Base64s.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/language/iii/ClockTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/language/iii/ParallelArrays.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/language/iv/Annotations.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/language/iv/ParameterNames.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/language/iv/RepeatingAnnotations.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/language/iv/TypeInference.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/language/nashornjavascript/TestJs.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/language/nashornjavascript/jjs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/language/pre/TryCatchTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/mythread/CountDownLatchPhaser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/mythread/CounterTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/mythread/CyclicBarrierPhaser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/mythread/ExchangerTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/mythread/FalseSharing.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/mythread/StampedLockTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/mythread/TimeTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/mythread/cas增强" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/nio/aio/AIOClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/nio/aio/AIOServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/nio/nio2/file/DirectoryStreamTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/nio/nio2/file/FileAttribute.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/nio/nio2/file/FileVistorTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/nio/nio2/file/PathTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/nio/nio2/file/RandomAccessFiles.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/nio/nio2/file/WatchServiceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mykafka/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myrabbit/TtlConsumer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myrabbit/TtlTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/untitled4_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/mythread/PhaserDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myrabbit/test/ConsumerTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myrabbit/test/ProduceTest.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/unnamed.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/untitled4/org/Student.class" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Student.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/jPOINTmap_20180202.log" afterPath="$PROJECT_DIR$/log/jPOINTmap_20180202.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/jPOINTmap_20180203.log" afterPath="$PROJECT_DIR$/log/jPOINTmap_20180203.log" />
@@ -86,6 +49,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/myenum/iii/Operation.java" afterPath="$PROJECT_DIR$/src/myenum/iii/Operation.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/myenum/iv/Gender.java" afterPath="$PROJECT_DIR$/src/myenum/iv/Gender.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/myenum/iv/GenderDesc.java" afterPath="$PROJECT_DIR$/src/myenum/iv/GenderDesc.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/myrabbit/RabbitmqConsumerMain.java" afterPath="$PROJECT_DIR$/src/myrabbit/RabbitmqConsumerMain.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/myrabbit/RabbitmqProducerMain.java" afterPath="$PROJECT_DIR$/src/myrabbit/RabbitmqProducerMain.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nio/socket/netty/errorpackage/hello/TimeClient.java" afterPath="$PROJECT_DIR$/src/nio/socket/netty/errorpackage/hello/TimeClient.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nio/socket/netty/errorpackage/hello/TimeServer.java" afterPath="$PROJECT_DIR$/src/nio/socket/netty/errorpackage/hello/TimeServer.java" />
@@ -100,6 +64,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nio/socket/netty/websocket/MyWebSocketServerHandler.java" afterPath="$PROJECT_DIR$/src/nio/socket/netty/websocket/MyWebSocketServerHandler.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nio/socket/netty/websocket/NettyServer.java" afterPath="$PROJECT_DIR$/src/nio/socket/netty/websocket/NettyServer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/Mytap.java" afterPath="$PROJECT_DIR$/src/org/Mytap.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/Student.java" afterPath="$PROJECT_DIR$/src/org/Student.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org1/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/org1/WEB-INF/web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org1/a.jsp" afterPath="$PROJECT_DIR$/src/org1/a.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org1/login.jsp" afterPath="$PROJECT_DIR$/src/org1/login.jsp" />
@@ -147,71 +112,65 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="598">
+              <caret line="76" column="27" lean-forward="false" selection-start-line="76" selection-start-column="27" selection-end-line="76" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="RabbitmqProducerMain.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/myrabbit/RabbitmqProducerMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+            <state relative-caret-position="344">
+              <caret line="47" column="32" lean-forward="false" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mykafka/Test.java">
+      <file leaf-file-name="ProduceTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/myrabbit/test/ProduceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="286">
+              <caret line="39" column="54" lean-forward="false" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConsumerTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/myrabbit/test/ConsumerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="42" column="34" lean-forward="false" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RabbitmqConsumerMain.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/myrabbit/RabbitmqConsumerMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="67" column="5" lean-forward="true" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jvm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jdk18/org/jvm">
+      <file leaf-file-name="TtlConsumer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/myrabbit/TtlConsumer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LambdaTest2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jdk18/org/language/i/LambdaTest2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="34" column="6" lean-forward="true" selection-start-line="34" selection-start-column="6" selection-end-line="35" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OptionalDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jdk18/org/language/i/OptionalDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="43" column="46" lean-forward="true" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StreamTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/jdk18/org/language/i/StreamTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LambdaTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jdk18/org/language/i/LambdaTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1100">
-              <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+            <state relative-caret-position="334">
+              <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -220,30 +179,8 @@
       <file leaf-file-name="TtlTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/myrabbit/TtlTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2618">
-              <caret line="126" column="31" lean-forward="false" selection-start-line="126" selection-start-column="31" selection-end-line="126" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/rabbitmq/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="20" column="37" lean-forward="false" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TtlConsumer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/myrabbit/TtlConsumer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="17" column="30" lean-forward="false" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+            <state relative-caret-position="440">
+              <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -306,23 +243,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test1.css" />
-        <option value="$PROJECT_DIR$/src/test3.js" />
-        <option value="$PROJECT_DIR$/src/deal.html" />
-        <option value="$PROJECT_DIR$/src/myjdbc/Test.java" />
-        <option value="$PROJECT_DIR$/src/myjdbc/Pstest.java" />
-        <option value="$PROJECT_DIR$/src/myspring/Test.java" />
-        <option value="$PROJECT_DIR$/src/reflaction/proxytest/Test.java" />
-        <option value="$PROJECT_DIR$/src/mango/Test.java" />
-        <option value="$PROJECT_DIR$/src/mango/Ai.java" />
-        <option value="$PROJECT_DIR$/src/myredis/keyinvalid/Subscriber.java" />
-        <option value="$PROJECT_DIR$/src/myredis/keyinvalid/KeyExpiredListener.java" />
-        <option value="$PROJECT_DIR$/src/myredis/keyinvalid/Test.java" />
-        <option value="$PROJECT_DIR$/src/myredis/Test.java" />
-        <option value="$PROJECT_DIR$/src/rabbitmq/Test.java" />
-        <option value="$PROJECT_DIR$/src/rabbitmq/Res.java" />
-        <option value="$PROJECT_DIR$/src/nio/socket/netty/udp/UDPClientTest.java" />
-        <option value="$PROJECT_DIR$/src/nio/socket/netty/udp/UDPSeverHandler.java" />
         <option value="$PROJECT_DIR$/src/nio/socket/netty/inoutbound/OutboundHandler1.java" />
         <option value="$PROJECT_DIR$/src/nio/socket/FileChnallTest.java" />
         <option value="$PROJECT_DIR$/src/reflaction/proxydbcp/ConnectonHander.java" />
@@ -349,14 +269,31 @@
         <option value="$PROJECT_DIR$/src/mybatistest/conf/User.xml" />
         <option value="$PROJECT_DIR$/src/mybatistest/test/Test.java" />
         <option value="$PROJECT_DIR$/src/myrabbit/Test.java" />
-        <option value="$PROJECT_DIR$/src/myrabbit/RabbitmqProducerMain.java" />
-        <option value="$PROJECT_DIR$/src/myrabbit/RabbitmqConsumerMain.java" />
         <option value="$PROJECT_DIR$/src/myrabbit/TtlConsumer.java" />
         <option value="$PROJECT_DIR$/src/myrabbit/TtlTest.java" />
         <option value="$PROJECT_DIR$/src/mykafka/Test.java" />
         <option value="$PROJECT_DIR$/src/jdk18/org/language/i/LambdaTest.java" />
         <option value="$PROJECT_DIR$/src/jdk18/org/language/i/LambdaTest2.java" />
         <option value="$PROJECT_DIR$/src/jdk18/org/language/i/StreamTest.java" />
+        <option value="$PROJECT_DIR$/src/jdk18/org/mythread/PhaserDemo.java" />
+        <option value="$PROJECT_DIR$/src/jdk18/org/mythread/CyclicBarrierPhaser.java" />
+        <option value="$PROJECT_DIR$/src/jdk18/org/mythread/Test.java" />
+        <option value="$PROJECT_DIR$/src/jdk18/org/mythread/ExchangerTest.java" />
+        <option value="$PROJECT_DIR$/src/annotation/ii/InheritableTest.java" />
+        <option value="$PROJECT_DIR$/src/annotation/iii/MyTest.java" />
+        <option value="$PROJECT_DIR$/src/annotation/i/SuppressWarningsTest.java" />
+        <option value="$PROJECT_DIR$/src/annotation/iv/ApplyMyAnnotation.java" />
+        <option value="$PROJECT_DIR$/src/nio/socket/netty/inoutbound/HelloClientIntHandler.java" />
+        <option value="$PROJECT_DIR$/src/nio/socket/netty/inoutbound/HelloClient.java" />
+        <option value="$PROJECT_DIR$/src/org/Student.java" />
+        <option value="$PROJECT_DIR$/src/myrabbit/RabbitmqProducerMain.java" />
+        <option value="$PROJECT_DIR$/src/myrabbit/RabbitmqConsumerMain.java" />
+        <option value="$PROJECT_DIR$/src/myrabbit/test/ConsumerTest.java" />
+        <option value="$PROJECT_DIR$/src/myrabbit/test/ProduceTest.java" />
+        <option value="$PROJECT_DIR$/src/myrabbit/contract/RabbitUtil.java" />
+        <option value="$PROJECT_DIR$/src/myrabbit/contract/ConsumerTest.java" />
+        <option value="$PROJECT_DIR$/src/myrabbit/contract/ProduceTest.java" />
+        <option value="$PROJECT_DIR$/src/myrabbit/contract/RabbitmqConsumerMain.java" />
       </list>
     </option>
   </component>
@@ -550,7 +487,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -605,128 +541,17 @@
               <option name="myItemId" value="untitled4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="org" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="org" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="org" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="i" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="org" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="i" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LambdaTest.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$USER_HOME$/code/akkatest" />
@@ -738,21 +563,21 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/mybatistest/conf" />
-      <recent name="$PROJECT_DIR$/src/socket" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/myrabbit/contract" />
+      <recent name="$PROJECT_DIR$/src/jdk18" />
+      <recent name="$PROJECT_DIR$/libb" />
+      <recent name="$PROJECT_DIR$/.idea" />
+      <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="socket.tcp" />
       <recent name="socket" />
       <recent name="reflaction" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/jdk18" />
-      <recent name="$PROJECT_DIR$/libb" />
-      <recent name="$PROJECT_DIR$/.idea" />
-      <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/src/mybatistest/pojo" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/mybatistest/conf" />
+      <recent name="$PROJECT_DIR$/src/socket" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -767,7 +592,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StreamTest">
+  <component name="RunManager" selected="Application.RabbitmqConsumerMain">
     <configuration default="false" name="TtlTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -788,14 +613,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="LambdaTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="ConsumerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="jdk18.org.language.i.*" />
+          <option name="PATTERN" value="myrabbit.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="jdk18.org.language.i.LambdaTest2" />
+      <option name="MAIN_CLASS_NAME" value="myrabbit.test.ConsumerTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -808,14 +633,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="LambdaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="RabbitmqConsumerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="jdk18.org.language.i.*" />
+          <option name="PATTERN" value="myrabbit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="jdk18.org.language.i.LambdaTest" />
+      <option name="MAIN_CLASS_NAME" value="myrabbit.RabbitmqConsumerMain" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -828,14 +653,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="OptionalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="ProduceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="jdk18.org.language.i.*" />
+          <option name="PATTERN" value="myrabbit.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="jdk18.org.language.i.OptionalDemo" />
+      <option name="MAIN_CLASS_NAME" value="myrabbit.test.ProduceTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -848,14 +673,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="StreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="RabbitmqProducerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="jdk18.org.language.i.*" />
+          <option name="PATTERN" value="myrabbit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="jdk18.org.language.i.StreamTest" />
+      <option name="MAIN_CLASS_NAME" value="myrabbit.RabbitmqProducerMain" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -1403,17 +1228,17 @@
       <item index="0" class="java.lang.String" itemvalue="Application.MyUncatchExceptionTest" />
       <item index="1" class="java.lang.String" itemvalue="Tomcat Server.Unnamed" />
       <item index="2" class="java.lang.String" itemvalue="Application.TtlTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.LambdaTest2" />
-      <item index="4" class="java.lang.String" itemvalue="Application.LambdaTest" />
-      <item index="5" class="java.lang.String" itemvalue="Application.OptionalDemo" />
-      <item index="6" class="java.lang.String" itemvalue="Application.StreamTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ConsumerTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.RabbitmqConsumerMain" />
+      <item index="5" class="java.lang.String" itemvalue="Application.ProduceTest" />
+      <item index="6" class="java.lang.String" itemvalue="Application.RabbitmqProducerMain" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.StreamTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.OptionalDemo" />
-        <item index="2" class="java.lang.String" itemvalue="Application.LambdaTest2" />
-        <item index="3" class="java.lang.String" itemvalue="Application.LambdaTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ProduceTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ConsumerTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.RabbitmqConsumerMain" />
+        <item index="3" class="java.lang.String" itemvalue="Application.RabbitmqProducerMain" />
         <item index="4" class="java.lang.String" itemvalue="Application.TtlTest" />
       </list>
     </recent_temporary>
@@ -1650,7 +1475,12 @@
       <workItem from="1536067920751" duration="2626000" />
       <workItem from="1536125444331" duration="7250000" />
       <workItem from="1536219024945" duration="4237000" />
-      <workItem from="1536385031706" duration="8988000" />
+      <workItem from="1536385031706" duration="9066000" />
+      <workItem from="1536476155828" duration="8744000" />
+      <workItem from="1536632847217" duration="723000" />
+      <workItem from="1536637967193" duration="629000" />
+      <workItem from="1536648281551" duration="1456000" />
+      <workItem from="1536732897467" duration="8229000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1535788548502</created>
@@ -1687,7 +1517,14 @@
       <option name="project" value="LOCAL" />
       <updated>1536125524826</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Learing Test">
+      <created>1536412344527</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1536412344527</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1696,7 +1533,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="717039000" />
+    <option name="totallyTimeSpent" value="736898000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1716,7 +1553,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12686156" sideWeight="0.5" order="15" side_tool="true" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984003" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
@@ -1812,7 +1649,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="47" />
+      <option name="time" value="49" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1821,202 +1658,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/myredis/keyinvalid/Subscriber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/myredis/keyinvalid/KeyExpiredListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="35" column="58" lean-forward="false" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/myredis/keyinvalid/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="25" column="49" lean-forward="false" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nio/socket/netty/http/HttpServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nio/socket/netty/http/HttpServerInboundHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="36" column="21" lean-forward="false" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lang18/LambdaLanguageBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="38" column="49" lean-forward="false" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lang18/My99InLine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/socket/jing/Server.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1386">
-          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/socket/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/socket/http/SimpleHttpGet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="60" column="5" lean-forward="false" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/socket/http/GetPostTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1804">
-          <caret line="84" column="31" lean-forward="false" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/socket/http_1/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="38" column="33" lean-forward="false" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/socket/http_1/MyHttpServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="53" column="7" lean-forward="false" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/socket/xxx.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mybatistest/pojo/User.fxml" />
-    <entry file="file://$PROJECT_DIR$/src/mybatistest/pojo/User.tld" />
-    <entry file="file://$PROJECT_DIR$/src/mybatistest/pojo/CityMapper.xml" />
-    <entry file="file://$PROJECT_DIR$/src/config.xml" />
-    <entry file="file://$PROJECT_DIR$/untitled4.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/config.xml" />
-    <entry file="file://$PROJECT_DIR$/src/mybatistest/pojo/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mybatistest/pojo/Goods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2046">
-          <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mybatistest/dao/IGoods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/libb/mybatis-3.4.1.jar!/org/apache/ibatis/session/SqlSession.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
-          <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mybatistest/test/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="53" column="19" lean-forward="false" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mybatistest/conf/Goods.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mybatistest/dao/IUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mybatistest/conf/User.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <marker date="1535707648771" expanded="true" signature="301:356" ph="SELECT * FRO... user" />
-            <marker date="1535707648771" expanded="true" signature="431:512" ph="INSERT INTO user... " />
-            <marker date="1535707648771" expanded="true" signature="603:621" ph="SELECT * FRO... user" />
-            <marker date="1535707648771" expanded="true" signature="695:784" ph="UPDATE USER " />
-            <marker date="1535707648771" expanded="true" signature="857:890" ph="DELETE FROM " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mybatistest/conf/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/libb/amqp-client-5.2.0.jar!/com/rabbitmq/client/impl/recovery/AutorecoveringChannel.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="433" column="18" lean-forward="false" selection-start-line="433" selection-start-column="18" selection-end-line="433" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/jdk1.8/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="352" column="24" lean-forward="false" selection-start-line="352" selection-start-column="18" selection-end-line="352" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/myrabbit/Test.java" />
     <entry file="jar://$PROJECT_DIR$/libb/rabbitmq-client.jar!/com/rabbitmq/client/AMQP.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="310">
@@ -2024,21 +1665,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/myrabbit/RabbitmqConsumerMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/myjdbc/Pstest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="20" column="49" lean-forward="false" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
-          <folding>
-            <marker date="1532231016051" expanded="true" signature="441:471" ph="select * fro... user" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2046,9 +1676,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2056,16 +1683,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="20" column="37" lean-forward="false" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/libb/rabbitmq-client.jar!/com/rabbitmq/client/Channel.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -2076,35 +1693,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/myrabbit/TtlConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="17" column="30" lean-forward="false" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/myrabbit/TtlTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2618">
-          <caret line="126" column="31" lean-forward="false" selection-start-line="126" selection-start-column="31" selection-end-line="126" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/myrabbit/RabbitmqProducerMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/mykafka/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -2112,15 +1704,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jdk18/org/language/i/LambdaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1100">
-          <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="1562">
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -2128,10 +1718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
           <caret line="1432" column="19" lean-forward="false" selection-start-line="1432" selection-start-column="19" selection-end-line="1432" selection-end-column="19" />
-          <folding>
-            <element signature="e#55800#55801#0" expanded="false" />
-            <element signature="e#55844#55845#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2139,7 +1725,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
           <caret line="48" column="11" lean-forward="false" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2147,30 +1732,318 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
           <caret line="172" column="23" lean-forward="false" selection-start-line="172" selection-start-column="23" selection-end-line="172" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jdk18/org/language/i/OptionalDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="43" column="46" lean-forward="true" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
-          <folding />
+        <state relative-caret-position="924">
+          <caret line="43" column="46" lean-forward="false" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jdk18/org/language/i/LambdaTest2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="34" column="6" lean-forward="true" selection-start-line="34" selection-start-column="6" selection-end-line="35" selection-end-column="48" />
-          <folding />
+        <state relative-caret-position="682">
+          <caret line="34" column="6" lean-forward="false" selection-start-line="34" selection-start-column="6" selection-end-line="35" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jdk18/org/language/i/StreamTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
-          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+          <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdk18/org/mythread/cas增强">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdk18/org/mythread/CountDownLatchPhaser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="37" column="32" lean-forward="false" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myThread/CountDownLatchPhsaer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myThread/MyCountDownLatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="59" column="11" lean-forward="true" selection-start-line="59" selection-start-column="11" selection-end-line="59" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/jdk1.8/src.zip!/java/lang/StringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="269" column="26" lean-forward="true" selection-start-line="269" selection-start-column="26" selection-end-line="269" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/jdk1.8/src.zip!/java/util/concurrent/Phaser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="972" column="17" lean-forward="false" selection-start-line="972" selection-start-column="17" selection-end-line="972" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdk18/org/mythread/FalseSharing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdk18/org/mythread/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/jdk18/org/mythread/CyclicBarrierPhaser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/jdk1.8/src.zip!/java/util/concurrent/Exchanger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="538" column="43" lean-forward="false" selection-start-line="538" selection-start-column="43" selection-end-line="538" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdk18/org/mythread/ExchangerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdk18/org/mythread/TimeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdk18/org/mythread/PhaserDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="23" column="38" lean-forward="false" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/annotation/ii/MyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/annotation/ii/InheritableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="33" column="1" lean-forward="false" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/annotation/i/DeprecatedTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/annotation/i/SuppressWarningsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/annotation/iv/ApplyMyAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/annotation/iii/MyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="39" column="1" lean-forward="false" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/socket/http_1/MyHttpServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="53" column="41" lean-forward="false" selection-start-line="53" selection-start-column="41" selection-end-line="53" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nio/socket/NClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="61" column="20" lean-forward="false" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nio/socket/netty/inoutbound/HelloServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="29" column="47" lean-forward="false" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#690#1378#0" expanded="false" />
+            <element signature="e#1377#1378#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nio/socket/netty/inoutbound/HelloClientIntHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="33" column="25" lean-forward="false" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nio/socket/netty/inoutbound/HelloClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/Mytext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="76" column="27" lean-forward="false" selection-start-line="76" selection-start-column="27" selection-end-line="76" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myrabbit/TtlConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myrabbit/TtlTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libb/rabbitmq-client.jar!/com/rabbitmq/client/Channel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="65" column="41" lean-forward="false" selection-start-line="65" selection-start-column="35" selection-end-line="65" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myrabbit/RabbitmqProducerMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="47" column="32" lean-forward="false" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myrabbit/test/ConsumerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="42" column="34" lean-forward="false" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myrabbit/test/ProduceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="39" column="54" lean-forward="false" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myrabbit/contract/RabbitUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="62" column="5" lean-forward="true" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myrabbit/contract/RabbitmqConsumerMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myrabbit/contract/ProduceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-184">
+          <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myrabbit/contract/ConsumerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="51" column="42" lean-forward="true" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myrabbit/RabbitmqConsumerMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="67" column="5" lean-forward="true" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -2181,7 +2054,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>unnamed</last-edited>
+          <last-edited>untitled4:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

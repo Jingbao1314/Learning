@@ -1,36 +1,46 @@
-package myrabbit;
+package myrabbit.test;
 
 import com.rabbitmq.client.*;
+import myrabbit.RabbitmqConsumerMain;
 
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by jingbao on 18-9-4.
+ * Created by jingbao on 18-9-12.
  */
-public class RabbitmqConsumerMain {
+public class ConsumerTest
+{
     public static void main(String[] args) throws Exception {
-        consume();
+       for (int i=0;i<3;i++){
+           int j=i;
+           Thread thread=new Thread(()->{
+               fanoutConsume("queueOne"+j);
+           });
+           thread.start();
+       }
     }
 
-    public static void fanoutConsume(){
-        Channel channel=getChannel();
+    public static void fanoutConsume(String queueName){
+        Channel channel= RabbitmqConsumerMain.getChannel();
         try {
-            channel.queueDeclare("queueOne1",false,false,false,null);
+            channel.queueDeclare(queueName,false,false,false,null);
             //绑定队列到交换器
-            channel.queueBind("queueOne1","test_exchange_fanout",""); //不设置路由键
-            //统一时刻服务器只会发一条消息给消费者;
+            channel.queueBind(queueName,"test_exchange_fanout","");
+            //不设置路由键
+            //统一时刻服务器只-会发一条消息给消费者;
             channel.basicQos(1);
             //定义队列的消费者
             QueueingConsumer consumer = new QueueingConsumer(channel);
             //监听队列，手动返回完成
-            channel.basicConsume("queueOne1",false,consumer);
+            channel.basicConsume(queueName,false,consumer);
             //获取消息
             while (true)
             {
                 QueueingConsumer.Delivery delivery = consumer.nextDelivery();
                 String message = new String(delivery.getBody());
-                System.out.println(" 前台系统：'" + message + "'");
+                System.out.println(" 前台系统：'" + message);
+                ProduceTest.direct("xxxx:合同");
                 //手动返回
                 try {
                     channel.basicAck(delivery.getEnvelope().getDeliveryTag(),false);
@@ -47,27 +57,8 @@ public class RabbitmqConsumerMain {
 
     }
 
-
-    public static Channel getChannel(){
-        ConnectionFactory factory = new ConnectionFactory();
-        factory.setHost("127.0.0.1");
-        factory.setPort(5672);
-        factory.setUsername("test");
-        factory.setPassword("123456");
-        factory.setVirtualHost("/");
-
-        Connection connection = null;
-        Channel channel=null;
-        try {
-            connection = factory.newConnection();
-            channel = connection.createChannel();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-        return channel;
-    }
-
-    public static void consume() throws IOException {
+    public void consume() throws IOException {
+        System.out.println();
         ConnectionFactory factory = new ConnectionFactory();
         factory.setHost("127.0.0.1");
         factory.setPort(5672);
@@ -78,7 +69,7 @@ public class RabbitmqConsumerMain {
         Connection connection =  factory.newConnection();
 
         Channel channel = connection.createChannel();
-        String queueName = "queue-direct";
+        String queueName = "queueOne0";
         channel.queueDeclare(queueName,false,false,false,null);
 
         channel.basicQos(5);  //每次取5条消息
@@ -87,6 +78,7 @@ public class RabbitmqConsumerMain {
             @Override
             public void handleDelivery(String consumerTag, Envelope envelope, AMQP.BasicProperties properties, byte[] body) throws IOException {
                 //消费消费
+                System.out.println();
                 String msg = new String(body,"utf-8");
                 System.out.println("consume msg: "+msg);
                 try {
@@ -102,5 +94,7 @@ public class RabbitmqConsumerMain {
 
         //调用消费消息
         channel.basicConsume(queueName,false,"queueOne",consumer);
+
     }
+
 }

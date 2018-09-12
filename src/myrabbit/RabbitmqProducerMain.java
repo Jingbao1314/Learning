@@ -17,6 +17,7 @@ public class RabbitmqProducerMain {
     //http://pdf.us/2018/06/01/1167.html   :rabbitmq开发指导 以及简单原理
     //https://blog.csdn.net/qq_20545159/article/details/53857351
     //https://www.linuxidc.com/Linux/2017-12/149210.htm
+    //https://blog.csdn.net/fxq8866/article/details/62049393
     public static void main(String[] args) throws Exception {
         ConnectionFactory factory = new ConnectionFactory();
         factory.setHost("127.0.0.1");

@@ -77,4 +77,8 @@ public class Student {
         this.state = state;
     }
     public Student(){}
+
+    public static void main(String[] args) {
+        System.out.println("qqqqqqqqqqqq");
+    }
 }
