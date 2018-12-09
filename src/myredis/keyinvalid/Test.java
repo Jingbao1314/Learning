@@ -17,8 +17,8 @@ public class Test {
         Jedis jedis=new Jedis("127.0.0.1",6379);
         jedis.set("xx", "你还在吗");
         jedis.expire("xx", 3);
-        String time=String.valueOf(System.currentTimeMillis()+3000);
-        jedis.set(time,"17602648919");
+//        String time=String.valueOf(System.currentTimeMillis()+3000);
+//        jedis.set(time,"17602648919");
     }
 
     public static void main(String[] args) throws ParseException {

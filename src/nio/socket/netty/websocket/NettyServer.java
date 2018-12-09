@@ -31,7 +31,7 @@ public class NettyServer {
 			
 			System.out.println("服务端开启等待客户端连接 ... ...");
 			
-			Channel ch = b.bind(7397).sync().channel();
+			Channel ch = b.bind(8888).sync().channel();
 			
 			ch.closeFuture().sync();
 			

@@ -6,6 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/mybatistest/conf" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/myhibernatetest/conf" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/myhibernamte/conf" type="java-resource" />
     </content>
     <content url="jar://$USER_HOME$/下载/mysql-connector-java-5.0.8-bin.jar!/" />
     <orderEntry type="inheritedJdk" />
@@ -31,5 +33,24 @@
     <orderEntry type="library" name="rabbitmq-client" level="project" />
     <orderEntry type="library" name="mybatis-3.4.1" level="project" />
     <orderEntry type="library" name="amqp-client-5.2.0" level="project" />
+    <orderEntry type="library" name="hibernate-core-5.3.7.Final" level="project" />
+    <orderEntry type="library" name="cglib-3.2.4" level="project" />
+    <orderEntry type="library" name="commons-beanutils-1.9.3" level="project" />
+    <orderEntry type="library" name="commons-collections4-4.1" level="project" />
+    <orderEntry type="library" name="commons-lang3-3.4" level="project" />
+    <orderEntry type="library" name="dom4j-1.6.1" level="project" />
+    <orderEntry type="library" name="odmg-3.0" level="project" />
+    <orderEntry type="library" name="xerces-2.4.0" level="project" />
+    <orderEntry type="library" name="hibernate-jpa-2.0-api-1.0.1.Final" level="project" />
+    <orderEntry type="library" name="jboss-logging-3.3.0.Final" level="project" />
+    <orderEntry type="library" name="jta-1.1" level="project" />
+    <orderEntry type="library" name="hibernate-annotations-3.5.6-Final" level="project" />
+    <orderEntry type="library" name="byte-buddy-1.8.17" level="project" />
+    <orderEntry type="library" name="hibernate-commons-annotations-5.0.1.Final" level="project" />
+    <orderEntry type="library" name="classmate-1.0.0" level="project" />
+    <orderEntry type="library" name="javax.persistence-2.1.0" level="project" />
+    <orderEntry type="library" name="persistence-api-1.0" level="project" />
+    <orderEntry type="library" name="javax.persistence-api-2.2" level="project" />
+    <orderEntry type="library" name="antlr-2.7.7" level="project" />
   </component>
 </module>

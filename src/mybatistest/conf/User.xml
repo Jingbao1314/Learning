@@ -16,20 +16,33 @@
         INSERT INTO user(id,sex,name,phone)
         VALUES(#{id},#{sex},#{name},#{phone})
 
-
     </insert>
 
     <select id="getUserList" resultType="mybatistest.pojo.User">
         SELECT * FROM user
     </select>
 
-    <update id="updateUser" parameterType="User">
-        UPDATE USER
-        SET
-        phone = #{phone}
-        WHERE
-        id =
-        #{id}
+    <update id="updateUser" parameterType="mybatistest.pojo.User">
+
+        UPDATE user
+        <trim prefix="SET" suffixOverrides=",">
+            <if test="name != null and name != ''">
+                name = #{name},
+            </if>
+            <if test="sex != null and sex != ''">
+                sex = #{sex},
+            </if>
+            <if test="password != null and password != ''">
+                password = #{password}
+            </if>
+        </trim>
+
+        <trim prefix="WHERE" prefixOverrides="AND |OR ">
+            <if test="id != null and id != ''">
+                id=#{id}
+            </if>
+            and phone=15555555555;
+        </trim>
     </update>
 
     <delete id="deleteUser" parameterType="int">
@@ -37,3 +50,11 @@
     </delete>
 
 </mapper>
+
+        <!--UPDATE USER-->
+        <!--SET-->
+        <!--phone = #{phone}-->
+        <!--WHERE-->
+        <!--id =-->
+        <!--#{id}-->
+

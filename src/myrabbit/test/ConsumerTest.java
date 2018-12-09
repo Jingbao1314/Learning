@@ -12,13 +12,15 @@ import java.util.concurrent.TimeUnit;
 public class ConsumerTest
 {
     public static void main(String[] args) throws Exception {
-       for (int i=0;i<3;i++){
-           int j=i;
-           Thread thread=new Thread(()->{
-               fanoutConsume("queueOne"+j);
-           });
-           thread.start();
-       }
+//       for (int i=0;i<3;i++){
+//           int j=i;
+//           Thread thread=new Thread(()->{
+//               fanoutConsume("queueOne"+j);
+//           });
+//           thread.start();
+//       }
+        new ConsumerTest().consume("queue-direct1");
+        new ConsumerTest().consume("queue-direct2");
     }
 
     public static void fanoutConsume(String queueName){
@@ -40,7 +42,7 @@ public class ConsumerTest
                 QueueingConsumer.Delivery delivery = consumer.nextDelivery();
                 String message = new String(delivery.getBody());
                 System.out.println(" 前台系统：'" + message);
-                ProduceTest.direct("xxxx:合同");
+                ProduceTest.direct("xxxx:合同","");
                 //手动返回
                 try {
                     channel.basicAck(delivery.getEnvelope().getDeliveryTag(),false);
@@ -57,7 +59,7 @@ public class ConsumerTest
 
     }
 
-    public void consume() throws IOException {
+    public void consume(String name) throws IOException {
         System.out.println();
         ConnectionFactory factory = new ConnectionFactory();
         factory.setHost("127.0.0.1");
@@ -69,7 +71,7 @@ public class ConsumerTest
         Connection connection =  factory.newConnection();
 
         Channel channel = connection.createChannel();
-        String queueName = "queueOne0";
+        String queueName = name;
         channel.queueDeclare(queueName,false,false,false,null);
 
         channel.basicQos(5);  //每次取5条消息
@@ -80,7 +82,7 @@ public class ConsumerTest
                 //消费消费
                 System.out.println();
                 String msg = new String(body,"utf-8");
-                System.out.println("consume msg: "+msg);
+                System.out.println("consume msg: "+msg+name);
                 try {
                     TimeUnit.MILLISECONDS.sleep((long) (Math.random()*500));
                 } catch (InterruptedException e) {

@@ -30,9 +30,12 @@ public class Client {
 //        printStream.write(66);
         OutputStreamWriter writer=new OutputStreamWriter(socket
                 .getOutputStream());
-        writer.write("么么！");
         writer.write(66);
+        writer.write("么么！");
         socket.sendUrgentData(65);//
+        socket.sendUrgentData(65);
+        socket.sendUrgentData(65);
+
 //        printStream.flush();
 //        printStream.close();
         writer.flush();

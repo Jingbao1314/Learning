@@ -25,8 +25,7 @@ public class KeyExpiredListener extends JedisPubSub {
     @Override
     public void onPMessage(String pattern, String channel, String message) {
 
-        System.out.println("onPMessage pattern "
-                + pattern + " " + channel + " " + message);
+        System.out.println(message);
         Jedis jedis=new Jedis("127.0.0.1",6379);
         String par=String.valueOf(System.currentTimeMillis()).substring(0,9)
                 +"*";

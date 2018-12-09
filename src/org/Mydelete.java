@@ -1,7 +1,5 @@
 package org;
 
-import com.sun.org.apache.xpath.internal.SourceTree;
-
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
 import java.awt.*;

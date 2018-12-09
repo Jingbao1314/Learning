@@ -44,12 +44,12 @@ public class Test {
             //User user = (User) session.selectOne( "com.yiibai.mybatis.models.UserMapper.getUserByID", 1);
 
             // 用户数据列表
-            System.out.println(testInsert());
+//            System.out.println(testInsert());
             // 插入数据
             // testInsert();
 
             // 更新用户
-            //testUpdate();
+            testUpdate();
 
             // 删除数据
             //testDelete();
@@ -118,29 +118,33 @@ public class Test {
 //        }
 //    }
 //
-//    public static void testUpdate()
-//    {
-//        try
-//        {
-//            SqlSession session = sqlSessionFactory.openSession();
-//            IUser iuser = session.getMapper(IUser.class);
-//            System.out.println("Test update start...");
-//            printUsers(iuser.getUserList());
-//            // 执行更新
-//            User user = iuser.getUser(1);
-//            user.setName("New name");
-//            iuser.updateUser(user);
-//            // 提交事务
-//            session.commit();
-//            // 显示更新之后User信息
-//            System.out.println("After update");
-//            printUsers(iuser.getUserList());
-//            System.out.println("Test update finished...");
-//        }catch (Exception e)
-//        {
-//            e.printStackTrace();
-//        }
-//    }
+    public static void testUpdate()
+    {
+        try
+        {
+            SqlSession session = sqlSessionFactory.openSession();
+            IUser iuser = session.getMapper(IUser.class);
+            System.out.println("Test update start...");
+            printUsers(iuser.getUserList());
+            // 执行更新
+//            User user =iuser.getUser(1);
+            User user = new User();
+            user.setName("xxx name");
+//            user.setSex("man");
+//            user.setPassword("12346789");
+//            user.setId(1);
+            iuser.updateUser(user);
+            // 提交事务
+            session.commit();
+            // 显示更新之后User信息
+            System.out.println("After update");
+            printUsers(iuser.getUserList());
+            System.out.println("Test update finished...");
+        }catch (Exception e)
+        {
+            e.printStackTrace();
+        }
+    }
 //
 //    // 删除用户信息
 //    public static void testDelete()

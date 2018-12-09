@@ -5,4 +5,5 @@ package reflaction.proxytest;
  */
 public interface Animal {
     public void eat();
+    public void xx();
 }

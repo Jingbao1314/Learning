@@ -16,35 +16,12 @@ import io.netty.handler.stream.ChunkedWriteHandler;
 import org.apache.log4j.Logger;
 
 import java.util.concurrent.Executors;
-
+//https://www.cnblogs.com/carl10086/p/6185095.html
 public class HttpServer {
 
     private static Logger log = Logger.getLogger(HttpServer.class);
 
     public void startinbound(int port) throws Exception {
-//   Chunked-Body=*chunk
-//  　　　　"0"CRLF
-//  　　　　 footer
-//  　　　　　CRLF　　　　　
-//   chunk=chunk-size[chunk-ext]CRLF
-//  　　　　chunk-dataCRLF
-        /*hex-no-zero=<HEXexcluding"0">
-
-  　　chunk-size=hex-no-zero*HEX
-  　　chunk-ext=*(";"chunk-ext-name["="chunk-ext-value])
-  　　chunk-ext-name=token
-  　　chunk-ext-val=token|quoted-string
-  　　chunk-data=chunk-size(OCTET)
-
-
-  　　footer=*entity-header */
-//        # RHEL/CentOS/Fedora:
-//        sudo yum install autoconf automake libtool make tar \
-//        glibc-devel libaio-devel \
-//        libgcc.i686 glibc-devel.i686
-//        # Debian/Ubuntu:
-//        sudo apt-get install autoconf automake libtool make tar \
-//        gcc-multilib libaio-dev
         EventLoopGroup bossGroup = new EpollEventLoopGroup(0x1, Executors.newCachedThreadPool()); //mainReactor    1个线程
         EventLoopGroup workerGroup = new EpollEventLoopGroup(Runtime.getRuntime().availableProcessors() * 0x3, Executors.newCachedThreadPool());   //subReactor       线程数量等价于cpu个数+1
 

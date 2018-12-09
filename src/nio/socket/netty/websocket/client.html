@@ -15,7 +15,11 @@
     }
 
     if(window.WebSocket){
-        socket = new WebSocket("ws://localhost:7397/websocket");
+        socket = new WebSocket("ws://localhost:8888/websocket");
+//        var message = {
+//            mac:"macTest"
+//        };
+//        socket.send(JSON.stringify(message));
 
         socket.onmessage = function(event){
 
@@ -53,7 +57,7 @@
 </script>
 <body>
 <form onSubmit="return false;">
-    <input type = "text" name="message" value="Netty The Sinper"/>
+    <input type = "text" name="message" value="{"mac":"MacTest","data":"[{\"fileUrl\":\"/home/xx/test/xx.py\"},{\"fileUrl\":\"/home/xx/test/xxx.py\"},{\"fileUrl\":\"/home/xx/test/xxxx.py\"}]"}" />
     <br/><br/>
     <input type="button" value="发送 WebSocket 请求消息" onClick="send(this.form.message.value)"/>
     <hr color="blue"/>

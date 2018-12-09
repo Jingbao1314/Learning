@@ -1,8 +1,6 @@
 package org;
 
 import java.sql.*;
-import java.util.ArrayList;
-import java.util.List;
 
 /**
  * Created by jingbao on 18-1-3.

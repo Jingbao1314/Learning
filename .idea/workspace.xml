@@ -6,22 +6,82 @@
     </artifacts-to-build>
   </component>
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/myrabbit/test/ConsumerTest.java" line="30" />
+    <bookmark url="file://$PROJECT_DIR$/src/myrabbit/test/ConsumerTest.java" line="32" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="472a79ca-fad5-4358-8a31-f875c6bef080" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/untitled4_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jdk18/org/mythread/PhaserDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myrabbit/test/ConsumerTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myrabbit/test/ProduceTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/unnamed.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/untitled4/org/Student.class" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Student.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/antlr-2.7.7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/byte-buddy-1.8.17.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/cglib-3.2.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/classmate-1.0.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/commons-beanutils-1.9.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/commons-collections4-4.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/commons-lang3-3.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/dom4j-1.6.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/hibernate-annotations-3.5.6-Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/hibernate-commons-annotations-5.0.1.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/hibernate-core-5.3.7.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/hibernate-jpa-2.0-api-1.0.1.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/javax.persistence-api-2.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/jboss-logging-3.3.0.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/jta-1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/odmg-3.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/persistence-api-1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/xalan-2.7.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libb/xerces-2.4.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/antlr_2_7_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/byte_buddy_1_8_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/cglib_3_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/classmate_1_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/hibernate_annotations_3_5_6_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/hibernate_commons_annotations_5_0_1_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/hibernate_core_5_3_7_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/hibernate_jpa_2_0_api_1_0_1_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/javax_persistence_2_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/javax_persistence_api_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/jta_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/persistence_api_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javashaell/学习资料" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myaop/Init.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myaop/MyAOPUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myaop/MyAopParameterOPType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myaop/MyClassAnnotation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myaop/MyParameterAnnotation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myaop/MyPointcutAnnotation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myaop/TestAnnotation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myaop/test/ITest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myaop/test/MyAdvise.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myaop/test/MyAop.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myaop/test/MyBefore.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myaop/test/MyInvokeHander.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myaop/test/MyPointcut.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myaop/test/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myhibernamte/Test.hbm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myhibernamte/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myhibernamte/TestDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myhibernamte/TestUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myhibernamte/conf/hibernate.cfg.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reg/Test.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/com/sun/proxy/$Proxy0.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/untitled4/org/JDBCmothed.class" afterPath="$PROJECT_DIR$/out/production/untitled4/org/JDBCmothed.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/untitled4/org/Mydelete$1.class" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Mydelete$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/untitled4/org/Mydelete$2.class" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Mydelete$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/untitled4/org/Mydelete.class" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Mydelete.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/untitled4/org/Mytap$1.class" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Mytap$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/untitled4/org/Mytap$2.class" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Mytap$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/untitled4/org/Mytap$3.class" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Mytap$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/untitled4/org/Mytap.class" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Mytap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/untitled4/org/Mytext$1.class" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Mytext$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/untitled4/org/Mytext$2.class" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Mytext$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/untitled4/org/Mytext.class" afterPath="$PROJECT_DIR$/out/production/untitled4/org/Mytext.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/jPOINTmap_20180202.log" afterPath="$PROJECT_DIR$/log/jPOINTmap_20180202.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/jPOINTmap_20180203.log" afterPath="$PROJECT_DIR$/log/jPOINTmap_20180203.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/untitled4/org1/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/out/production/untitled4/org1/WEB-INF/web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/untitled4/org1/a.jsp" afterPath="$PROJECT_DIR$/out/production/untitled4/org1/a.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/untitled4/org1/login.jsp" afterPath="$PROJECT_DIR$/out/production/untitled4/org1/login.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MyAppClassLoad.java" afterPath="$PROJECT_DIR$/src/MyAppClassLoad.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/annotation/i/DeprecatedTest.java" afterPath="$PROJECT_DIR$/src/annotation/i/DeprecatedTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/annotation/i/SuppressWarningsTest.java" afterPath="$PROJECT_DIR$/src/annotation/i/SuppressWarningsTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/annotation/ii/InheritableTest.java" afterPath="$PROJECT_DIR$/src/annotation/ii/InheritableTest.java" />
@@ -39,6 +99,10 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/generics/ii_2/ArrayErr.java" afterPath="$PROJECT_DIR$/src/generics/ii_2/ArrayErr.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/generics/ii_2/ErasureTest.java" afterPath="$PROJECT_DIR$/src/generics/ii_2/ErasureTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/generics/ii_2/GenericMethodTest.java" afterPath="$PROJECT_DIR$/src/generics/ii_2/GenericMethodTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/log4j.properties" afterPath="$PROJECT_DIR$/src/log4j.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mybatistest/conf/Goods.xml" afterPath="$PROJECT_DIR$/src/mybatistest/conf/Goods.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mybatistest/conf/User.xml" afterPath="$PROJECT_DIR$/src/mybatistest/conf/User.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mybatistest/test/Test.java" afterPath="$PROJECT_DIR$/src/mybatistest/test/Test.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/myenum/i/EnumTest.java" afterPath="$PROJECT_DIR$/src/myenum/i/EnumTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/myenum/i/SeasonEnum.java" afterPath="$PROJECT_DIR$/src/myenum/i/SeasonEnum.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/myenum/ii/Gender.java" afterPath="$PROJECT_DIR$/src/myenum/ii/Gender.java" />
@@ -49,8 +113,10 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/myenum/iii/Operation.java" afterPath="$PROJECT_DIR$/src/myenum/iii/Operation.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/myenum/iv/Gender.java" afterPath="$PROJECT_DIR$/src/myenum/iv/Gender.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/myenum/iv/GenderDesc.java" afterPath="$PROJECT_DIR$/src/myenum/iv/GenderDesc.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/myrabbit/RabbitmqConsumerMain.java" afterPath="$PROJECT_DIR$/src/myrabbit/RabbitmqConsumerMain.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/myrabbit/RabbitmqProducerMain.java" afterPath="$PROJECT_DIR$/src/myrabbit/RabbitmqProducerMain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/myrabbit/test/ConsumerTest.java" afterPath="$PROJECT_DIR$/src/myrabbit/test/ConsumerTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/myrabbit/test/ProduceTest.java" afterPath="$PROJECT_DIR$/src/myrabbit/test/ProduceTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/myredis/keyinvalid/KeyExpiredListener.java" afterPath="$PROJECT_DIR$/src/myredis/keyinvalid/KeyExpiredListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/myredis/keyinvalid/Test.java" afterPath="$PROJECT_DIR$/src/myredis/keyinvalid/Test.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nio/socket/netty/errorpackage/hello/TimeClient.java" afterPath="$PROJECT_DIR$/src/nio/socket/netty/errorpackage/hello/TimeClient.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nio/socket/netty/errorpackage/hello/TimeServer.java" afterPath="$PROJECT_DIR$/src/nio/socket/netty/errorpackage/hello/TimeServer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nio/socket/netty/file/download/FileClient.java" afterPath="$PROJECT_DIR$/src/nio/socket/netty/file/download/FileClient.java" />
@@ -59,15 +125,22 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nio/socket/netty/file/upload/errorpackage/hello/TimeServer.java" afterPath="$PROJECT_DIR$/src/nio/socket/netty/file/upload/errorpackage/hello/TimeServer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nio/socket/netty/hello/TimeClient.java" afterPath="$PROJECT_DIR$/src/nio/socket/netty/hello/TimeClient.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nio/socket/netty/hello/TimeServer.java" afterPath="$PROJECT_DIR$/src/nio/socket/netty/hello/TimeServer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nio/socket/netty/http/HttpServer.java" afterPath="$PROJECT_DIR$/src/nio/socket/netty/http/HttpServer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nio/socket/netty/websocket/ChildChannelHandler.java" afterPath="$PROJECT_DIR$/src/nio/socket/netty/websocket/ChildChannelHandler.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nio/socket/netty/websocket/Global.java" afterPath="$PROJECT_DIR$/src/nio/socket/netty/websocket/Global.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nio/socket/netty/websocket/MyWebSocketServerHandler.java" afterPath="$PROJECT_DIR$/src/nio/socket/netty/websocket/MyWebSocketServerHandler.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nio/socket/netty/websocket/NettyServer.java" afterPath="$PROJECT_DIR$/src/nio/socket/netty/websocket/NettyServer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nio/socket/netty/websocket/client.html" afterPath="$PROJECT_DIR$/src/nio/socket/netty/websocket/client.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/JDBCmothed.java" afterPath="$PROJECT_DIR$/src/org/JDBCmothed.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/Mydelete.java" afterPath="$PROJECT_DIR$/src/org/Mydelete.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/Mytap.java" afterPath="$PROJECT_DIR$/src/org/Mytap.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/Student.java" afterPath="$PROJECT_DIR$/src/org/Student.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/Mytext.java" afterPath="$PROJECT_DIR$/src/org/Mytext.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org1/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/org1/WEB-INF/web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org1/a.jsp" afterPath="$PROJECT_DIR$/src/org1/a.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org1/login.jsp" afterPath="$PROJECT_DIR$/src/org1/login.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reflaction/proxytest/Animal.java" afterPath="$PROJECT_DIR$/src/reflaction/proxytest/Animal.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reflaction/proxytest/Dog.java" afterPath="$PROJECT_DIR$/src/reflaction/proxytest/Dog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reflaction/proxytest/Test.java" afterPath="$PROJECT_DIR$/src/reflaction/proxytest/Test.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reg/FindGroup.java" afterPath="$PROJECT_DIR$/src/reg/FindGroup.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reg/MatchesTest.java" afterPath="$PROJECT_DIR$/src/reg/MatchesTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reg/ReplaceTest.java" afterPath="$PROJECT_DIR$/src/reg/ReplaceTest.java" />
@@ -81,8 +154,10 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/socket/http/abc/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/socket/http/abc/WEB-INF/web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/socket/http/abc/a.jsp" afterPath="$PROJECT_DIR$/src/socket/http/abc/a.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/socket/http/abc/login.jsp" afterPath="$PROJECT_DIR$/src/socket/http/abc/login.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/socket/oobinline/Client.java" afterPath="$PROJECT_DIR$/src/socket/oobinline/Client.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/socket/tcp/Client.java" afterPath="$PROJECT_DIR$/src/socket/tcp/Client.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/socket/tcp/Server.java" afterPath="$PROJECT_DIR$/src/socket/tcp/Server.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untitled4.iml" afterPath="$PROJECT_DIR$/untitled4.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -112,31 +187,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/Student.java">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/myhibernamte/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="76" column="27" lean-forward="false" selection-start-line="76" selection-start-column="27" selection-end-line="76" selection-end-column="27" />
-              <folding />
+            <state relative-caret-position="110">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="e#187#188#0" expanded="true" />
+                <element signature="e#212#213#0" expanded="true" />
+                <element signature="e#374#375#0" expanded="true" />
+                <element signature="e#406#407#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RabbitmqProducerMain.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/myrabbit/RabbitmqProducerMain.java">
+      <file leaf-file-name="TestDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/myhibernamte/TestDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="47" column="32" lean-forward="false" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProduceTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/myrabbit/test/ProduceTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="39" column="54" lean-forward="false" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="54" />
+            <state relative-caret-position="446">
+              <caret line="40" column="26" lean-forward="false" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -144,43 +214,85 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConsumerTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/myrabbit/test/ConsumerTest.java">
+      <file leaf-file-name="TestUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/myhibernamte/TestUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="42" column="34" lean-forward="false" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="34" />
+            <state relative-caret-position="214">
+              <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#720#721#0" expanded="true" />
+                <element signature="e#751#752#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RabbitmqConsumerMain.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/myrabbit/RabbitmqConsumerMain.java">
+      <file leaf-file-name="StringReg.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reg/StringReg.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="67" column="5" lean-forward="true" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+            <state relative-caret-position="380">
+              <caret line="59" column="39" lean-forward="true" selection-start-line="59" selection-start-column="39" selection-end-line="59" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TtlConsumer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/myrabbit/TtlConsumer.java">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/reg/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+            <state relative-caret-position="396">
+              <caret line="18" column="65" lean-forward="false" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TtlTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/myrabbit/TtlTest.java">
+      <file leaf-file-name="FindGroup.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reg/FindGroup.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+            <state relative-caret-position="88">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MatchesTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reg/MatchesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReplaceTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reg/ReplaceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StartEnd.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reg/StartEnd.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Session.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/libb/hibernate-core-5.3.7.Final.jar!/org/hibernate/Session.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="94" column="9" lean-forward="false" selection-start-line="94" selection-start-column="9" selection-end-line="94" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -194,12 +306,14 @@
         <option value="Kotlin File" />
         <option value="HTML File" />
         <option value="CSS File" />
-        <option value="JavaScript File" />
-        <option value="FxmlFile" />
         <option value="scala class" />
         <option value="xml" />
         <option value="Tag Library Descriptor" />
+        <option value="JavaScript File" />
+        <option value="Enum" />
+        <option value="AnnotationType" />
         <option value="Interface" />
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -243,57 +357,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/nio/socket/netty/inoutbound/OutboundHandler1.java" />
-        <option value="$PROJECT_DIR$/src/nio/socket/FileChnallTest.java" />
-        <option value="$PROJECT_DIR$/src/reflaction/proxydbcp/ConnectonHander.java" />
-        <option value="$PROJECT_DIR$/src/reflaction/proxydbcp/JdbcPool.java" />
-        <option value="$PROJECT_DIR$/src/nio/socket/netty/hello/TimeClient.java" />
-        <option value="$PROJECT_DIR$/src/nio/socket/netty/hello/TimeServerHandler.java" />
-        <option value="$PROJECT_DIR$/src/nio/socket/netty/hello/ClientIntHandler.java" />
-        <option value="$PROJECT_DIR$/src/nio/socket/netty/hello/ClientTest.java" />
-        <option value="$PROJECT_DIR$/src/lang18/LambdaLanguageBase.java" />
-        <option value="$PROJECT_DIR$/src/lang18/My99InLine.java" />
-        <option value="$PROJECT_DIR$/src/socket/Test.java" />
-        <option value="$PROJECT_DIR$/src/socket/xxx.html" />
-        <option value="$PROJECT_DIR$/src/socket/http_1/MyHttpServer.java" />
-        <option value="$PROJECT_DIR$/src/mybatistest/pojo/User.fxml" />
-        <option value="$PROJECT_DIR$/src/mybatistest/config.xml" />
-        <option value="$PROJECT_DIR$/src/mybatistest/dao/IUser.java" />
-        <option value="$PROJECT_DIR$/src/mybatistest/pojo/User.java" />
-        <option value="$PROJECT_DIR$/src/mybatistest/Test.java" />
-        <option value="$PROJECT_DIR$/src/mybatistest/pojo/User.xml" />
-        <option value="$PROJECT_DIR$/src/mybatistest/conf/Goods.xml" />
-        <option value="$PROJECT_DIR$/src/mybatistest/conf/config.xml" />
-        <option value="$PROJECT_DIR$/src/mybatistest/pojo/Goods.java" />
-        <option value="$PROJECT_DIR$/src/mybatistest/dao/IGoods.java" />
-        <option value="$PROJECT_DIR$/src/mybatistest/conf/User.xml" />
-        <option value="$PROJECT_DIR$/src/mybatistest/test/Test.java" />
-        <option value="$PROJECT_DIR$/src/myrabbit/Test.java" />
-        <option value="$PROJECT_DIR$/src/myrabbit/TtlConsumer.java" />
-        <option value="$PROJECT_DIR$/src/myrabbit/TtlTest.java" />
-        <option value="$PROJECT_DIR$/src/mykafka/Test.java" />
-        <option value="$PROJECT_DIR$/src/jdk18/org/language/i/LambdaTest.java" />
-        <option value="$PROJECT_DIR$/src/jdk18/org/language/i/LambdaTest2.java" />
-        <option value="$PROJECT_DIR$/src/jdk18/org/language/i/StreamTest.java" />
-        <option value="$PROJECT_DIR$/src/jdk18/org/mythread/PhaserDemo.java" />
-        <option value="$PROJECT_DIR$/src/jdk18/org/mythread/CyclicBarrierPhaser.java" />
-        <option value="$PROJECT_DIR$/src/jdk18/org/mythread/Test.java" />
-        <option value="$PROJECT_DIR$/src/jdk18/org/mythread/ExchangerTest.java" />
-        <option value="$PROJECT_DIR$/src/annotation/ii/InheritableTest.java" />
-        <option value="$PROJECT_DIR$/src/annotation/iii/MyTest.java" />
-        <option value="$PROJECT_DIR$/src/annotation/i/SuppressWarningsTest.java" />
-        <option value="$PROJECT_DIR$/src/annotation/iv/ApplyMyAnnotation.java" />
-        <option value="$PROJECT_DIR$/src/nio/socket/netty/inoutbound/HelloClientIntHandler.java" />
-        <option value="$PROJECT_DIR$/src/nio/socket/netty/inoutbound/HelloClient.java" />
-        <option value="$PROJECT_DIR$/src/org/Student.java" />
-        <option value="$PROJECT_DIR$/src/myrabbit/RabbitmqProducerMain.java" />
-        <option value="$PROJECT_DIR$/src/myrabbit/RabbitmqConsumerMain.java" />
-        <option value="$PROJECT_DIR$/src/myrabbit/test/ConsumerTest.java" />
-        <option value="$PROJECT_DIR$/src/myrabbit/test/ProduceTest.java" />
         <option value="$PROJECT_DIR$/src/myrabbit/contract/RabbitUtil.java" />
         <option value="$PROJECT_DIR$/src/myrabbit/contract/ConsumerTest.java" />
         <option value="$PROJECT_DIR$/src/myrabbit/contract/ProduceTest.java" />
         <option value="$PROJECT_DIR$/src/myrabbit/contract/RabbitmqConsumerMain.java" />
+        <option value="$PROJECT_DIR$/src/jdk18/org/language/ii/functionRef.java" />
+        <option value="$PROJECT_DIR$/src/jdk18/org/mythread/PhaserDemo.java" />
+        <option value="$PROJECT_DIR$/src/myredis/keyinvalid/KeyExpiredListener.java" />
+        <option value="$PROJECT_DIR$/src/myredis/keyinvalid/Test.java" />
+        <option value="$PROJECT_DIR$/src/socket/oobinline/Client.java" />
+        <option value="$PROJECT_DIR$/src/MyAppClassLoad.java" />
+        <option value="$PROJECT_DIR$/src/org/Test.java" />
+        <option value="$PROJECT_DIR$/src/nio/socket/netty/http/HttpServer.java" />
+        <option value="$PROJECT_DIR$/src/javashaell/学习资料" />
+        <option value="$PROJECT_DIR$/src/nio/socket/netty/websocket/NettyServer.java" />
+        <option value="$PROJECT_DIR$/src/myrabbit/test/ConsumerTest.java" />
+        <option value="$PROJECT_DIR$/src/myrabbit/test/ProduceTest.java" />
+        <option value="$PROJECT_DIR$/src/nio/socket/netty/websocket/Test.js" />
+        <option value="$PROJECT_DIR$/src/nio/socket/netty/websocket/client.html" />
+        <option value="$PROJECT_DIR$/src/nio/socket/netty/websocket/MyWebSocketServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/myaop/MyClassAnnotation.java" />
+        <option value="$PROJECT_DIR$/src/myaop/MyPointcutAnnotation.java" />
+        <option value="$PROJECT_DIR$/src/myaop/MyParameterAnnotation.java" />
+        <option value="$PROJECT_DIR$/src/myaop/MyAopParameterOPType.java" />
+        <option value="$PROJECT_DIR$/src/myaop/MyAOPUtils.java" />
+        <option value="$PROJECT_DIR$/src/myaop/TestAnnotation.java" />
+        <option value="$PROJECT_DIR$/src/myaop/Init.java" />
+        <option value="$PROJECT_DIR$/src/myaop/test/MyAdvice.java" />
+        <option value="$PROJECT_DIR$/src/myaop/test/MyBefore.java" />
+        <option value="$PROJECT_DIR$/src/myaop/test/MyPointcut.java" />
+        <option value="$PROJECT_DIR$/src/reflaction/proxytest/Animal.java" />
+        <option value="$PROJECT_DIR$/src/reflaction/proxytest/Dog.java" />
+        <option value="$PROJECT_DIR$/src/myaop/test/MyInvokeHander.java" />
+        <option value="$PROJECT_DIR$/src/myaop/test/MyAop.java" />
+        <option value="$PROJECT_DIR$/src/myaop/test/Test.java" />
+        <option value="$PROJECT_DIR$/src/myrabbit/RabbitmqProducerMain.java" />
+        <option value="$PROJECT_DIR$/src/reflaction/proxytest/Test.java" />
+        <option value="$PROJECT_DIR$/src/myaop/test/ITest.java" />
+        <option value="$PROJECT_DIR$/src/myaop/test/MyAdvise.java" />
+        <option value="$PROJECT_DIR$/src/mybatistest/conf/Goods.xml" />
+        <option value="$PROJECT_DIR$/src/mybatistest/test/Test.java" />
+        <option value="$PROJECT_DIR$/src/mybatistest/conf/User.xml" />
+        <option value="$PROJECT_DIR$/src/myhibernatetest/User.hbm.xml.fxml" />
+        <option value="$PROJECT_DIR$/src/myhibernatetest/conf/User.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/myhibernatetest/User.java" />
+        <option value="$PROJECT_DIR$/src/myhibernamte/conf/Test.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/myhibernamte/Test.java" />
+        <option value="$PROJECT_DIR$/src/myhibernamte/conf/hibernate.cfg.xml" />
+        <option value="$PROJECT_DIR$/src/myhibernamte/TestDao.java" />
+        <option value="$PROJECT_DIR$/src/myhibernamte/TestUtils.java" />
+        <option value="$PROJECT_DIR$/src/reg/Test.java" />
       </list>
     </option>
   </component>
@@ -487,7 +601,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -541,21 +654,92 @@
               <option name="myItemId" value="untitled4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StringReg.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myjdbc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$USER_HOME$/code/akkatest" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="settings.editor.splitter.proportion" value="0.2814259" />
     <property name="SearchEverywhereHistoryKey" value="mys&#9;PSI&#9;JAVA://org.MYselect&#10;MyS&#9;PSI&#9;JAVA://reflaction.MyServlet" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -564,11 +748,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/myrabbit/contract" />
-      <recent name="$PROJECT_DIR$/src/jdk18" />
       <recent name="$PROJECT_DIR$/libb" />
-      <recent name="$PROJECT_DIR$/.idea" />
+      <recent name="$PROJECT_DIR$/src/myhibernamte" />
       <recent name="$PROJECT_DIR$/src" />
+      <recent name="$USER_HOME$/下载/xalan-2.7.1.jar /home/jingbao/下载/xerces-2.4.0.jar" />
+      <recent name="$PROJECT_DIR$/src/myhibernamte/conf" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="socket.tcp" />
@@ -576,6 +760,8 @@
       <recent name="reflaction" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/libb" />
+      <recent name="$PROJECT_DIR$/src/myhibernamte/conf" />
       <recent name="$PROJECT_DIR$/src/mybatistest/conf" />
       <recent name="$PROJECT_DIR$/src/socket" />
     </key>
@@ -592,15 +778,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RabbitmqConsumerMain">
-    <configuration default="false" name="TtlTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Test">
+    <configuration default="false" name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="myrabbit.*" />
+          <option name="PATTERN" value="mybatistest.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="myrabbit.TtlTest" />
+      <option name="MAIN_CLASS_NAME" value="mybatistest.test.Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -613,14 +799,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ConsumerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="TestDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="myrabbit.test.*" />
+          <option name="PATTERN" value="myhibernamte.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="myrabbit.test.ConsumerTest" />
+      <option name="MAIN_CLASS_NAME" value="myhibernamte.TestDao" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -633,14 +819,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="RabbitmqConsumerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="myrabbit.*" />
+          <option name="PATTERN" value="myhibernamte.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="myrabbit.RabbitmqConsumerMain" />
+      <option name="MAIN_CLASS_NAME" value="myhibernamte.Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -653,14 +839,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ProduceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="TestUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="myrabbit.test.*" />
+          <option name="PATTERN" value="myhibernamte.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="myrabbit.test.ProduceTest" />
+      <option name="MAIN_CLASS_NAME" value="myhibernamte.TestUtils" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -673,14 +859,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="RabbitmqProducerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="myrabbit.*" />
+          <option name="PATTERN" value="reg.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="myrabbit.RabbitmqProducerMain" />
+      <option name="MAIN_CLASS_NAME" value="reg.Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -1023,6 +1209,11 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="MongoRunConfiguration" factoryName="Mongo">
+      <setting name="path" value="" />
+      <setting name="shellParams" value="" />
+      <method />
+    </configuration>
     <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -1227,19 +1418,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Application.MyUncatchExceptionTest" />
       <item index="1" class="java.lang.String" itemvalue="Tomcat Server.Unnamed" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TtlTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ConsumerTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.RabbitmqConsumerMain" />
-      <item index="5" class="java.lang.String" itemvalue="Application.ProduceTest" />
-      <item index="6" class="java.lang.String" itemvalue="Application.RabbitmqProducerMain" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Test (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestDao" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Test (2)" />
+      <item index="5" class="java.lang.String" itemvalue="Application.TestUtils" />
+      <item index="6" class="java.lang.String" itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ProduceTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ConsumerTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.RabbitmqConsumerMain" />
-        <item index="3" class="java.lang.String" itemvalue="Application.RabbitmqProducerMain" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TtlTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestUtils" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestDao" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Test (2)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -1480,7 +1671,43 @@
       <workItem from="1536632847217" duration="723000" />
       <workItem from="1536637967193" duration="629000" />
       <workItem from="1536648281551" duration="1456000" />
-      <workItem from="1536732897467" duration="8229000" />
+      <workItem from="1536732897467" duration="13144000" />
+      <workItem from="1537455074552" duration="3090000" />
+      <workItem from="1538121747269" duration="509000" />
+      <workItem from="1538122292126" duration="970000" />
+      <workItem from="1539048987964" duration="850000" />
+      <workItem from="1539050069073" duration="402000" />
+      <workItem from="1539068381127" duration="622000" />
+      <workItem from="1539486551583" duration="696000" />
+      <workItem from="1540281875775" duration="1056000" />
+      <workItem from="1540458363821" duration="1612000" />
+      <workItem from="1540460053174" duration="1057000" />
+      <workItem from="1540519793084" duration="1582000" />
+      <workItem from="1540729642377" duration="64000" />
+      <workItem from="1540730189831" duration="1006000" />
+      <workItem from="1541039360967" duration="1337000" />
+      <workItem from="1541482017605" duration="3709000" />
+      <workItem from="1541486534806" duration="696000" />
+      <workItem from="1541488962828" duration="989000" />
+      <workItem from="1541564084237" duration="1525000" />
+      <workItem from="1541671262669" duration="5000" />
+      <workItem from="1541686137997" duration="2071000" />
+      <workItem from="1541746722996" duration="4327000" />
+      <workItem from="1541832303056" duration="705000" />
+      <workItem from="1541836658227" duration="4213000" />
+      <workItem from="1541912074741" duration="3262000" />
+      <workItem from="1541948670811" duration="2294000" />
+      <workItem from="1541990138076" duration="2971000" />
+      <workItem from="1542010133523" duration="1217000" />
+      <workItem from="1542031586694" duration="11000" />
+      <workItem from="1542031642197" duration="690000" />
+      <workItem from="1542339979582" duration="98000" />
+      <workItem from="1543759014362" duration="643000" />
+      <workItem from="1543990339553" duration="11745000" />
+      <workItem from="1544083410282" duration="5551000" />
+      <workItem from="1544167175470" duration="7148000" />
+      <workItem from="1544238334888" duration="10610000" />
+      <workItem from="1544322910806" duration="8523000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1535788548502</created>
@@ -1524,7 +1751,14 @@
       <option name="project" value="LOCAL" />
       <updated>1536412344527</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Learing Test">
+      <created>1536762137622</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1536762137622</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1533,7 +1767,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="736898000" />
+    <option name="totallyTimeSpent" value="829669000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1558,19 +1792,19 @@
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984003" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2498621" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29075804" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2211838" sideWeight="0.62437946" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22014537" sideWeight="0.62437946" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28660437" sideWeight="0.7446222" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27206644" sideWeight="0.7446222" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24195223" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27523443" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24091381" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17815775" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1649,7 +1883,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="49" />
+      <option name="time" value="52" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1658,392 +1892,364 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/libb/rabbitmq-client.jar!/com/rabbitmq/client/AMQP.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="404" column="0" lean-forward="true" selection-start-line="404" selection-start-column="0" selection-end-line="404" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/myjdbc/Pstest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="49" lean-forward="false" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/rabbitmq/Res.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/rabbitmq/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="20" column="37" lean-forward="false" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/libb/rabbitmq-client.jar!/com/rabbitmq/client/Connection.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mykafka/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/reflaction/proxytest/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jdk18/org/jvm">
+    <entry file="file://$PROJECT_DIR$/src/myrabbit/test/ConsumerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="572">
+          <caret line="30" column="47" lean-forward="false" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jdk18/org/language/i/LambdaTest.java">
+    <entry file="file://$PROJECT_DIR$/src/myaop/test/MyAop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1562">
-          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+        <state relative-caret-position="286">
+          <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/jdk1.8/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="1432" column="19" lean-forward="false" selection-start-line="1432" selection-start-column="19" selection-end-line="1432" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/jdk1.8/src.zip!/java/util/function/Predicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="48" column="11" lean-forward="false" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/jdk1.8/src.zip!/java/util/Optional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="172" column="23" lean-forward="false" selection-start-line="172" selection-start-column="23" selection-end-line="172" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jdk18/org/language/i/OptionalDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="43" column="46" lean-forward="false" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jdk18/org/language/i/LambdaTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="34" column="6" lean-forward="false" selection-start-line="34" selection-start-column="6" selection-end-line="35" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jdk18/org/language/i/StreamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jdk18/org/mythread/cas增强">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jdk18/org/mythread/CountDownLatchPhaser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="37" column="32" lean-forward="false" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/myThread/CountDownLatchPhsaer.java">
+    <entry file="file://$PROJECT_DIR$/src/myaop/test/MyAdvise.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/myThread/MyCountDownLatch.java">
+    <entry file="file://$PROJECT_DIR$/src/myaop/test/ITest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="59" column="11" lean-forward="true" selection-start-line="59" selection-start-column="11" selection-end-line="59" selection-end-column="11" />
+        <state relative-caret-position="132">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/jdk1.8/src.zip!/java/lang/StringBuffer.java">
+    <entry file="file://$PROJECT_DIR$/src/myaop/test/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="269" column="26" lean-forward="true" selection-start-line="269" selection-start-column="26" selection-end-line="269" selection-end-column="26" />
+        <state relative-caret-position="242">
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/jdk1.8/src.zip!/java/util/concurrent/Phaser.java">
+    <entry file="file://$PROJECT_DIR$/src/myaop/test/MyInvokeHander.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="738">
-          <caret line="972" column="17" lean-forward="false" selection-start-line="972" selection-start-column="17" selection-end-line="972" selection-end-column="17" />
+        <state relative-caret-position="638">
+          <caret line="31" column="21" lean-forward="false" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jdk18/org/mythread/FalseSharing.java">
+    <entry file="file://$PROJECT_DIR$/src/myaop/test/MyBefore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myaop/Init.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="15" column="54" lean-forward="false" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/jdk1.8/src.zip!/java/lang/annotation/AnnotationFormatError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="39" column="61" lean-forward="false" selection-start-line="39" selection-start-column="61" selection-end-line="39" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myaop/test/MyPointcut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatistest/conf/Goods.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <marker date="1544084208975" expanded="true" signature="302:357" ph="SELECT * FRO... user" />
+            <marker date="1544084208975" expanded="true" signature="432:513" ph="INSERT INTO user... " />
+            <marker date="1544084208975" expanded="true" signature="604:623" ph="SELECT * FRO... goods" />
+            <marker date="1544084208975" expanded="true" signature="714:803" ph="UPDATE USER " />
+            <marker date="1544084208975" expanded="true" signature="876:909" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libb/mybatis-3.4.1.jar!/org/apache/ibatis/exceptions/ExceptionFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatistest/dao/IGoods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatistest/dao/IUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" column="33" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/下载/mysql-connector-java-5.0.8-bin.jar!/com/mysql/jdbc/PreparedStatement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="1444" column="0" lean-forward="false" selection-start-line="1444" selection-start-column="0" selection-end-line="1444" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatistest/pojo/Goods.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jdk18/org/mythread/Test.java" />
-    <entry file="file://$PROJECT_DIR$/src/jdk18/org/mythread/CyclicBarrierPhaser.java">
+    <entry file="file://$PROJECT_DIR$/src/mybatistest/pojo/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        <state relative-caret-position="264">
+          <caret line="12" column="25" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="12" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/jdk1.8/src.zip!/java/util/concurrent/Exchanger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="538" column="43" lean-forward="false" selection-start-line="538" selection-start-column="43" selection-end-line="538" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jdk18/org/mythread/ExchangerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jdk18/org/mythread/TimeTest.java">
+    <entry file="file://$PROJECT_DIR$/src/myhibernatetest/User.hbm.xml.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/myhibernatetest/conf/config.xml" />
+    <entry file="file://$PROJECT_DIR$/src/myhibernatetest/++/User.xml" />
+    <entry file="file://$PROJECT_DIR$/src/myhibernatetest/conf/User.xml" />
+    <entry file="file://$PROJECT_DIR$/src/myhibernatetest/conf/User.hbm.xml" />
+    <entry file="file://$PROJECT_DIR$/src/myhibernatetest/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/myjdbc/Pstest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jdk18/org/mythread/PhaserDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="23" column="38" lean-forward="false" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/annotation/ii/MyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/annotation/ii/InheritableTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="33" column="1" lean-forward="false" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/annotation/i/DeprecatedTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/annotation/i/SuppressWarningsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/annotation/iv/ApplyMyAnnotation.java">
+    <entry file="file://$PROJECT_DIR$/src/mybatistest/conf/User.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
-          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <marker date="1544167327890" expanded="true" signature="301:356" ph="SELECT * FRO... user" />
+            <marker date="1544167327890" expanded="true" signature="431:512" ph="INSERT INTO user... " />
+            <marker date="1544167327890" expanded="true" signature="602:620" ph="SELECT * FRO... user" />
+            <marker date="1544167327890" expanded="true" signature="712:1113" ph="UPDATE user " />
+            <marker date="1544167327890" expanded="true" signature="712:1304" ph="UPDATE USER " />
+            <marker date="1544167327890" expanded="true" signature="1377:1410" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libb/hibernate-core-5.3.7.Final.jar!/org/hibernate/SharedSessionContract.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/annotation/iii/MyTest.java">
+    <entry file="file://$PROJECT_DIR$/src/generics/ii/MyUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="39" column="1" lean-forward="false" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/socket/http_1/MyHttpServer.java">
+    <entry file="file://$PROJECT_DIR$/src/myhibernamte/conf/Test.hbm.xml" />
+    <entry file="file://$PROJECT_DIR$/out/production/untitled4/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="53" column="41" lean-forward="false" selection-start-line="53" selection-start-column="41" selection-end-line="53" selection-end-column="41" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mybatistest/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="24" column="58" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="false" />
+            <element signature="e#879#880#0" expanded="false" />
+            <element signature="e#919#920#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/nio/socket/NClient.java">
+    <entry file="jar://$PROJECT_DIR$/libb/hibernate-core-5.3.7.Final.jar!/org/hibernate/cfg/Configuration.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="61" column="20" lean-forward="false" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+        <state relative-caret-position="313">
+          <caret line="171" column="50" lean-forward="false" selection-start-line="171" selection-start-column="42" selection-end-line="171" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/nio/socket/netty/inoutbound/HelloServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="29" column="47" lean-forward="false" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#690#1378#0" expanded="false" />
-            <element signature="e#1377#1378#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nio/socket/netty/inoutbound/HelloClientIntHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="33" column="25" lean-forward="false" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nio/socket/netty/inoutbound/HelloClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/Mytext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="76" column="27" lean-forward="false" selection-start-line="76" selection-start-column="27" selection-end-line="76" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/myrabbit/TtlConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/myrabbit/TtlTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/libb/rabbitmq-client.jar!/com/rabbitmq/client/Channel.class">
+    <entry file="file://$PROJECT_DIR$/src/myhibernamte/conf/Test.hbm.xml" />
+    <entry file="file://$PROJECT_DIR$/src/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="65" column="41" lean-forward="false" selection-start-line="65" selection-start-column="35" selection-end-line="65" selection-end-column="41" />
+          <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/myrabbit/RabbitmqProducerMain.java">
+    <entry file="file://$PROJECT_DIR$/src/mybatistest/conf/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="47" column="32" lean-forward="false" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="32" />
+        <state relative-caret-position="572">
+          <caret line="26" column="23" lean-forward="false" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/myrabbit/test/ConsumerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/myhibernamte/Test.hbm.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="42" column="34" lean-forward="false" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="34" />
+        <state relative-caret-position="110">
+          <caret line="5" column="40" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myjdbc/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <marker date="1532228382098" expanded="true" signature="811:879" ph="select uid f... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myhibernamte/conf/hibernate.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/jdk1.8/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="110" column="21" lean-forward="false" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libb/hibernate-core-5.3.7.Final.jar!/org/hibernate/query/Query.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="90" column="5" lean-forward="true" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libb/hibernate-core-5.3.7.Final.jar!/org/hibernate/hql/internal/ast/ASTQueryTranslatorFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myhibernamte/TestDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="40" column="26" lean-forward="false" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/myrabbit/test/ProduceTest.java">
+    <entry file="jar://$PROJECT_DIR$/libb/hibernate-core-5.3.7.Final.jar!/org/hibernate/Session.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="39" column="54" lean-forward="false" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="54" />
+        <state relative-caret-position="225">
+          <caret line="94" column="9" lean-forward="false" selection-start-line="94" selection-start-column="9" selection-end-line="94" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myhibernamte/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/myrabbit/contract/RabbitUtil.java">
+    <entry file="file://$PROJECT_DIR$/src/myhibernamte/TestUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="62" column="5" lean-forward="true" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+        <state relative-caret-position="214">
+          <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#720#721#0" expanded="true" />
+            <element signature="e#751#752#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reg/FindGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/myrabbit/contract/RabbitmqConsumerMain.java">
+    <entry file="file://$PROJECT_DIR$/src/reg/MatchesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="88">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/myrabbit/contract/ProduceTest.java">
+    <entry file="file://$PROJECT_DIR$/src/reg/ReplaceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-184">
-          <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+        <state relative-caret-position="88">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/myrabbit/contract/ConsumerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/reg/StartEnd.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
-          <caret line="51" column="42" lean-forward="true" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
+        <state relative-caret-position="88">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/myrabbit/RabbitmqConsumerMain.java">
+    <entry file="file://$PROJECT_DIR$/src/reg/StringReg.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="67" column="5" lean-forward="true" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+        <state relative-caret-position="380">
+          <caret line="59" column="39" lean-forward="true" selection-start-line="59" selection-start-column="39" selection-end-line="59" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reg/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="65" lean-forward="false" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
           <folding />
         </state>
       </provider>

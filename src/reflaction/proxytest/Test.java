@@ -7,9 +7,8 @@ public class Test {
     public static void main(String[] args) {
         System.getProperties().put("sun.misc.ProxyGenerator" +
                 ".saveGeneratedFiles","true");
-        Animal myInvokeHander= (Animal) new MyInvokeHander().bind(new Dog
-                ());
-        myInvokeHander.eat();
+        Animal myInvokeHander= (Animal) new MyInvokeHander().bind(new Dog());
+        myInvokeHander.xx();
     }
 }
 ///home/jingbao/IdeaProjects/untitled4/com/sun/proxy

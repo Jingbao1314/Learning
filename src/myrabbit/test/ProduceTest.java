@@ -11,16 +11,18 @@ import java.io.IOException;
  */
 public class ProduceTest {
     public static void main(String[] args) throws Exception {
-        fanout("qqqqqqq");
+        direct("qqqqqqq","queue-direct2");
+        direct("ccccc","queue-direct1");
 
     }
-    public static void direct(String data) throws IOException {//direct模式
+    public static void direct(String data,String name) throws IOException
+    {//direct模式
         Connection connection =getConnection();
 
         Channel channel = connection.createChannel();
-        String queueName = "queue-direct";
+        String queueName = name;
         String exchangeName = "direct-test";
-        String routingKey = "queue-direct";
+        String routingKey = name;
         channel.exchangeDeclare(exchangeName,"direct");
         channel.queueDeclare(queueName,false,false,false,null);
         channel.queueBind(queueName,exchangeName,routingKey);
