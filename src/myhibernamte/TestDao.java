@@ -32,6 +32,7 @@ public class TestDao {
         Session session = sf.openSession();
 
         Transaction tx = session.beginTransaction();
+        session.find(Test.class,"from Test as t");
 
         //5.用面向对象的方式操作数据库
         //select

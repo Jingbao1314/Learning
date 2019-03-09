@@ -52,5 +52,12 @@
     <orderEntry type="library" name="persistence-api-1.0" level="project" />
     <orderEntry type="library" name="javax.persistence-api-2.2" level="project" />
     <orderEntry type="library" name="antlr-2.7.7" level="project" />
+    <orderEntry type="library" name="aspectjrt-1.9.2" level="project" />
+    <orderEntry type="library" name="aspose-words-jdk16-14.6.0.0" level="project" />
+    <orderEntry type="library" name="itextpdf-5.5.13" level="project" />
+    <orderEntry type="library" name="jodconverter-2.2.1" level="project" />
+    <orderEntry type="library" name="libb" level="project" />
+    <orderEntry type="library" name="libb (2)" level="project" />
+    <orderEntry type="library" name="libb (3)" level="project" />
   </component>
 </module>

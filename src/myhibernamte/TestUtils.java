@@ -6,6 +6,7 @@ import org.hibernate.Transaction;
 import org.hibernate.cfg.Configuration;
 import org.hibernate.query.Query;
 
+
 import java.util.ArrayList;
 
 /**
@@ -65,7 +66,7 @@ public class TestUtils {
     public static ArrayList<Test> get(String id){
         Session session=getSession();
         Transaction tx = session.beginTransaction();
-        String hql="from Test where id= ?";
+        String hql="from Test where id= ?0";
         Query query=session.createQuery(hql);
         query.setParameter(0, id);
         ArrayList<Test> list= (ArrayList<Test>) query.list();
@@ -96,14 +97,14 @@ public class TestUtils {
     }
 
     public static void main(String[] args) {
-          get("7721");
+//          get("7721");
 //        Test t=new Test();
 //        t.setId("7721");
 //        for(int i=0;i<10;i++){
 //            t.setName(Integer.toString(i));
 //            insert(t);
 //        }
-//        list();
+        list();
     }
 
 }

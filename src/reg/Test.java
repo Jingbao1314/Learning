@@ -7,7 +7,7 @@ package reg;
 public class Test {
     public static void main(String[] args) {
         /**
-         * it is a test for \utest.
+         * it is a test for test.
          */
         // \u0022 是双引 号的 Unicode 转义字符
         System.out.println("a\u0022.length() + \u0022b".length());
@@ -25,7 +25,8 @@ public class Test {
         System.out.println("(9) "+msg.replaceFirst("[a-z]+","999"));
         System.out.println("(10) "+msg.replaceFirst("[A-z]?","999"));
         System.out.println("(11) "+msg.replaceFirst("[A-z]+","999"));
-        System.out.println("(12) "+msg.replaceFirst("[\u4E00-\u9FA5]+","999"));//U+4E00..U+9FA5.\u ascii码
+        System.out.println("(12) "+msg.replaceFirst("[\u4E00-\u9FA5]+",
+                "999"));//U+4E00..U+9FA5.\u0022 ascii码
         System.out.println("(13) "+msg.replaceFirst("((131)|(138)|(186))\\d{7}","999"));
         System.out.println("(14) "+msg.replaceFirst("\\w*@\\w*.\\w*","999"));
         System.out.println("(15) "+msg.replaceFirst("[0-z]+@[0-z]+.[0-z]{2,3}","999"));
