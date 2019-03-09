@@ -124,10 +124,10 @@ public class PDFToImage {
                     imgFilePath.append(imgFilePathPrefix);
                     imgFilePath.append("_");
                     imgFilePath.append(String.valueOf(i + 1));
-                    imgFilePath.append(".png");
+                    imgFilePath.append(".jpg");
                     File dstFile = new File(imgFilePath.toString());
                     BufferedImage image = renderer.renderImageWithDPI(i, dpi);
-                    ImageIO.write(image, "png", dstFile);
+                    ImageIO.write(image, "jpg", dstFile);
                 }
                 System.out.println("PDF文档转PNG图片成功！");
 
@@ -150,7 +150,7 @@ public class PDFToImage {
     }
 
     public static void main(String[] args) {
-        pdf2Image("/home/jingbao/文档/xxx.pdf", "/home/jingbao/文档", 300);
+        pdf2Image("/home/jingbao/文档/吕文静.pdf", "/home/jingbao/文档", 500);
     }
 
 

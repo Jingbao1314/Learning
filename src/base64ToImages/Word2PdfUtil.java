@@ -1,28 +1,22 @@
 package base64ToImages;
 
-import java.io.File;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.InputStream;
-import java.net.ConnectException;
-
-//import org.aspectj.weaver.ast.Test;
-
+import java.io.*;
 import com.artofsolving.jodconverter.DocumentConverter;
 import com.artofsolving.jodconverter.openoffice.connection.OpenOfficeConnection;
 import com.artofsolving.jodconverter.openoffice.connection.SocketOpenOfficeConnection;
 import com.artofsolving.jodconverter.openoffice.converter.OpenOfficeDocumentConverter;
 import com.aspose.words.Document;
-import com.aspose.words.License;
 import com.aspose.words.SaveFormat;
+import org.apache.pdfbox.pdmodel.PDDocument;
+import org.apache.pdfbox.text.PDFTextStripper;
 
-import static sun.plugin.javascript.navig.JSType.Document;
 
 public class Word2PdfUtil {
 
     public static void main(String[] args) throws IOException {
-        WordToPDF("/home/jingbao/下载/基于区块链的租赁格子文档.doc",
-                "/home/jingbao/文档/xxx.html");
+//        WordToPDF("/home/jingbao/下载/基于区块链的租赁格子文档.doc",
+//                "/home/jingbao/文档/xxx.html");
+        PdfToWord("/home/jingbao/文档/纪仔涛-简历new.pdf","/home/jingbao/文档/test.doc");
     }
 
 //    public static boolean getLicense() {
@@ -93,5 +87,34 @@ public class Word2PdfUtil {
         // 关闭进程
 //        p.destroy();
     }
+
+    public static void PdfToWord(String pdfFile,String wordName){
+        try
+        {
+            PDDocument doc = PDDocument.load(new File(pdfFile));
+            int pagenumber = doc.getNumberOfPages();
+            pdfFile = pdfFile.substring(0, pdfFile.lastIndexOf("."));
+            File file = new File(wordName);
+            if (!file.exists())
+            {
+                file.createNewFile();
+            }
+            FileOutputStream fos = new FileOutputStream(wordName);
+            Writer writer = new OutputStreamWriter(fos, "UTF-8");
+            PDFTextStripper stripper = new PDFTextStripper();
+            stripper.setSortByPosition(true);// 排序
+            stripper.setStartPage(1);// 设置转换的开始页
+            stripper.setEndPage(pagenumber);// 设置转换的结束页
+            stripper.writeText(doc, writer);
+            writer.close();
+            doc.close();
+            System.out.println("pdf转换word成功！");
+        }
+        catch (IOException e)
+        {
+            e.printStackTrace();
+        }
+    }
+
 }
 
