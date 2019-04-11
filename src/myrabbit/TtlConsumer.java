@@ -5,6 +5,7 @@ import com.rabbitmq.client.*;
 import java.io.ByteArrayInputStream;
 import java.io.IOException;
 import java.io.ObjectInputStream;
+import java.util.HashMap;
 
 /**
  * Created by jingbao on 18-9-5.

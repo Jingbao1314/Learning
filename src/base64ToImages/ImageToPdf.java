@@ -44,6 +44,7 @@ public class ImageToPdf {
     }
 
     public static void main(String[] args) throws IOException {
-        jpgToPdf("/home/jingbao/IdeaProjects/untitled4/src/base64ToImages/preview.jpg", "/home/jingbao/文档/xxx.pdf");
+        jpgToPdf("/home/jingbao/IdeaProjects/untitled4/src/base64ToImages" +
+                "/preview.jpg", "/home/jingbao/文档/pdf/preview.pdf");
     }
 }

@@ -41,7 +41,6 @@ class TaskT extends Thread{
 
 
 
-
         for (int i=4;i<7;i++){
             System.out.println("b"+i);
         }

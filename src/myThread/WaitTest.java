@@ -5,7 +5,7 @@ package myThread;
  */
 public class WaitTest extends Thread {
     public Object lock=new Object();
-    public static int flag=0;
+    public volatile static int flag=0;
     public static int  c=0;
     public void run(){
        // A a=new A();
@@ -15,9 +15,9 @@ public class WaitTest extends Thread {
                 while (c<100){
                     synchronized (lock){
                         if(flag<2){
-                            flag++;
                             c=c+1;
                             System.out.println(flag);
+                            flag++;
                         }else {
                             try {
                                 lock.notify();
@@ -39,9 +39,9 @@ public class WaitTest extends Thread {
                 while (c<100){
                     synchronized (lock){
                         if(flag>0){
-                            flag--;
                             c=c+1;
                             System.out.println(flag);
+                            flag--;
                         }else {
                             try {
                                 lock.notify();

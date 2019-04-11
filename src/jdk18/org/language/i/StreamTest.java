@@ -17,6 +17,7 @@ public class StreamTest {
 //        System.out.println("sum is:"+nums.stream().filter(num -> num != null).
 //                distinct().mapToInt(num -> num * 2).
 //                peek(System.out::println).skip(2).limit(4).sum());
+
 //
 //        List<Integer> nums1 = Arrays.asList(1,1,null,2,3,4,null,5,6,7,8,9,10);
 //        List<Integer> numsWithoutNull = nums1.stream().filter(num -> num != null).distinct().
@@ -35,7 +36,7 @@ public class StreamTest {
 
 //        List<Integer> together = Stream.of(asList(1, 2),asList(3, 4)).flatMap(numbers -> numbers.stream()).collect(toList());
 //        together.stream().forEach((e)-> System.out.println(e));
-        count("fdttyuyuffghjrtrrt");
+//        count("fdttyuyuffghjrtrrt");
 
 //
 //        List<Integer> ints = Arrays.asList(1,2,3,4,5,6,7,8,9,10);

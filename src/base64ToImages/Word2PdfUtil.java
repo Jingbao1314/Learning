@@ -14,9 +14,10 @@ import org.apache.pdfbox.text.PDFTextStripper;
 public class Word2PdfUtil {
 
     public static void main(String[] args) throws IOException {
-//        WordToPDF("/home/jingbao/下载/基于区块链的租赁格子文档.doc",
-//                "/home/jingbao/文档/xxx.html");
-        PdfToWord("/home/jingbao/文档/纪仔涛-简历new.pdf","/home/jingbao/文档/test.doc");
+        WordToPDF("/home/jingbao/文档/doc/纪仔涛-简历news(1).doc",
+                "/home/jingbao/文档/pdf/纪仔涛-简历news(1).pdf");
+//        PdfToWord("/home/jingbao/文档/pdf/纪仔涛-简历news.pdf",
+//                "/home/jingbao/文档/doc/纪仔涛-简历news(1).doc");
     }
 
 //    public static boolean getLicense() {
@@ -64,14 +65,9 @@ public class Word2PdfUtil {
         if (!outputFile.getParentFile().exists()) {
             outputFile.getParentFile().exists();
         }
+        //cd /opt/openoffice4/program/
         //启动openOffice server
         //soffice -headless -accept="socket,host=127.0.0.1,port=8100;urp;" -nofirststartwizard
-
-
-        // 调用openoffice服务线程
-        /** 我把openOffice下载到了 C:/Program Files (x86)/下  ,下面的写法自己修改编辑就可以**/
-//        String command = "/opt/openoffice4/program/ soffice --headless --accept=\"socket,host=127.0.0.1,port=8100;urp;\"";
-//        Process p = Runtime.getRuntime().exec(command);
 
         // 连接openoffice服务
         OpenOfficeConnection connection = new SocketOpenOfficeConnection("127.0.0.1", 8100);

@@ -6,6 +6,7 @@ import static java.lang.invoke.MethodHandles.lookup;
 
 import java.lang.invoke.MethodType;
 import java.lang.reflect.InvocationTargetException;
+import java.util.concurrent.LinkedBlockingDeque;
 
 /**
  * Created by jingbao on 18-5-3.
@@ -102,8 +103,8 @@ public class Test {
         //Test.sayHello('a');
        // int [][][] i=new int[1][0][-1];
         //(new Test().new Son()).say();
-        new Test();
-        new Test();
+//        new Test();
+//        new Test();
         //Class.forName("myBlockQueue.Test");
 
     }
